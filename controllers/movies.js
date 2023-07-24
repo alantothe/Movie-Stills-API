@@ -139,3 +139,20 @@ export const getPosterByID = async (req, res) => {
         res.status(500).json({ error: error.message });
     }
 }
+
+export const deleteMovieById = async (req, res) => {
+    try {
+        const { id } = req.params;
+        const movie = await MovieData.findByIdAndDelete(_id);
+        
+        if (!movie) {
+            return res.status(404).json({ message: "Invaild ID " });
+        }
+
+        res.json({ message: 'Movie deleted successfully' });
+    } catch(error) {
+        console.log(error);
+        res.status(500).json({ error: error.message });
+    }
+}
+
