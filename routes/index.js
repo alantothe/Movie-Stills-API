@@ -1,7 +1,6 @@
 import { Router } from "express";
 import moviesRoutes from "./movies.js";
-import registerUser from "./user.js";
-
+import usersRoutes from "./user.js";
 
 const router = Router();
 
@@ -10,8 +9,6 @@ router.get("/", (req, res) => {
 });
 
 router.use("/movies", moviesRoutes);
-router.use('/users', registerUser)
-router.post("/register", registerUser);
-
+router.use('/users', usersRoutes);
 
 export default router;

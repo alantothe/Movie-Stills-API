@@ -66,3 +66,32 @@ export const deleteUserById = async (req, res) => {
 
 
 
+export const updateUserFavoritesById = async (req, res) => {
+    try {
+        console.log('params:', req.params);
+        console.log('body:', req.body);
+        
+        const { _id } = req.params;
+        const { favorite } = req.body;
+
+        if (!favorite) {
+            return res.status(400).json({ message: "No favorite provided" });
+        }
+
+        const user = await User.findByIdAndUpdate(_id, { $push: { Favorites: favorite } }, { new: true });
+
+        if (!user) {
+            return res.status(404).json({ message: "Invalid ID" });
+        }
+
+        res.json({ message: 'User favorites updated successfully', user });
+
+    } catch (error) {
+        console.log(error);
+        res.status(500).json({ error: error.message });
+    }
+}
+
+
+
+
