@@ -48,5 +48,21 @@ export const getUsers = async (req, res)=>{
     
 }
 
+export const deleteUserById = async (req, res) => {
+    try {
+        const { id } = req.params;
+        const user = await User.findByIdAndDelete(id);
+        
+        if (!user) {
+            return res.status(404).json({ message: "Invalid ID" });
+        }
+
+        res.json({ message: 'User deleted successfully' });
+    } catch(error) {
+        console.log(error);
+        res.status(500).json({ error: error.message });
+    }
+}
+
 
 
