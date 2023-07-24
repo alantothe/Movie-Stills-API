@@ -1,1282 +1,2454 @@
 [
   {
     "Title": "2001: A Space Odyssey",
-    "Year": "1968",
+    "Year": 1968,
     "Rated": "G",
-    "Released": "24 Jun 1970",
-    "Runtime": "149 min",
-    "Genre": "Adventure, Sci-Fi",
-    "Director": "Stanley Kubrick",
-    "Writer": "Stanley Kubrick, Arthur C. Clarke",
-    "Actors": "Keir Dullea, Gary Lockwood, William Sylvester",
+    "Released": "1970-06-24T04:00:00.000Z",
+    "Runtime": 149,
+    "Genre": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Stanley Kubrick"
+    ],
+    "Writer": [
+      "Stanley Kubrick",
+      "Arthur C. Clarke"
+    ],
+    "Actors": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester"
+    ],
     "Plot": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.",
-    "Language": "English, Russian, French",
-    "Country": "United Kingdom, United States",
+    "Language": [
+      "English",
+      "Russian",
+      "French"
+    ],
+    "Country": [
+      "United Kingdom",
+      "United States"
+    ],
     "Awards": "Won 1 Oscar. 17 wins & 13 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-    "BoxOffice": "$60,481,243",
+    "BoxOffice": 60481243,
     "imdbID": "tt0062622",
-    "imdbRating": "8.3",
+    "imdbRating": 8.3,
     "Stills": []
   },
   {
     "Title": "25th Hour",
-    "Year": "2002",
+    "Year": 2002,
     "Rated": "R",
-    "Released": "10 Jan 2003",
-    "Runtime": "135 min",
-    "Genre": "Drama",
-    "Director": "Spike Lee",
-    "Writer": "David Benioff",
-    "Actors": "Edward Norton, Barry Pepper, Philip Seymour Hoffman",
+    "Released": "2003-01-10T05:00:00.000Z",
+    "Runtime": 135,
+    "Genre": [
+      "Drama"
+    ],
+    "Director": [
+      "Spike Lee"
+    ],
+    "Writer": [
+      "David Benioff"
+    ],
+    "Actors": [
+      "Edward Norton",
+      "Barry Pepper",
+      "Philip Seymour Hoffman"
+    ],
     "Plot": "Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "4 wins & 17 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNmE0YjdlYTktMTU4Ni00Mjk2LWI3NWMtM2RjNmFiOTk4YjYxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-    "BoxOffice": "$13,084,595",
+    "BoxOffice": 13084595,
     "imdbID": "tt0307901",
-    "imdbRating": "7.6",
+    "imdbRating": 7.6,
     "Stills": []
   },
   {
     "Title": "A Serious Man",
-    "Year": "2009",
+    "Year": 2009,
     "Rated": "R",
-    "Released": "06 Nov 2009",
-    "Runtime": "106 min",
-    "Genre": "Comedy, Drama",
-    "Director": "Ethan Coen, Joel Coen",
-    "Writer": "Joel Coen, Ethan Coen",
-    "Actors": "Michael Stuhlbarg, Richard Kind, Sari Lennick",
+    "Released": "2009-11-06T05:00:00.000Z",
+    "Runtime": 106,
+    "Genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "Director": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "Writer": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "Actors": [
+      "Michael Stuhlbarg",
+      "Richard Kind",
+      "Sari Lennick"
+    ],
     "Plot": "Larry Gopnik, a Midwestern physics teacher, watches his life unravel over multiple sudden incidents. Though seeking meaning and answers amidst his turmoils, he seems to keep sinking.",
-    "Language": "English, Yiddish, Hebrew",
-    "Country": "United Kingdom, France, United States",
+    "Language": [
+      "English",
+      "Yiddish",
+      "Hebrew"
+    ],
+    "Country": [
+      "United Kingdom",
+      "France",
+      "United States"
+    ],
     "Awards": "Nominated for 2 Oscars. 17 wins & 80 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNGZkODlhMjktNzhhMC00YjFiLWJmODMtNjQwOGMzZjMxNTZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "BoxOffice": "$9,228,768",
+    "BoxOffice": 9228768,
     "imdbID": "tt1019452",
-    "imdbRating": "7.0",
+    "imdbRating": 7,
     "Stills": []
   },
   {
     "Title": "A.I. Artificial Intelligence",
-    "Year": "2001",
+    "Year": 2001,
     "Rated": "PG-13",
-    "Released": "29 Jun 2001",
-    "Runtime": "146 min",
-    "Genre": "Drama, Sci-Fi",
-    "Director": "Steven Spielberg",
-    "Writer": "Brian Aldiss, Ian Watson, Steven Spielberg",
-    "Actors": "Haley Joel Osment, Jude Law, Frances O'Connor",
+    "Released": "2001-06-29T04:00:00.000Z",
+    "Runtime": 146,
+    "Genre": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Steven Spielberg"
+    ],
+    "Writer": [
+      "Brian Aldiss",
+      "Ian Watson",
+      "Steven Spielberg"
+    ],
+    "Actors": [
+      "Haley Joel Osment",
+      "Jude Law",
+      "Frances O'Connor"
+    ],
     "Plot": "A highly advanced robotic boy longs to become \"real\" so that he can regain the love of his human mother.",
-    "Language": "English",
-    "Country": "United States, United Kingdom",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States",
+      "United Kingdom"
+    ],
     "Awards": "Nominated for 2 Oscars. 17 wins & 71 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNWU2NzEyMDYtM2MyOS00OGM3LWFkNzAtMzRiNzE2ZjU5ZTljXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "BoxOffice": "$78,616,689",
+    "BoxOffice": 78616689,
     "imdbID": "tt0212720",
-    "imdbRating": "7.2",
+    "imdbRating": 7.2,
     "Stills": []
   },
   {
     "Title": "American Beauty",
-    "Year": "1999",
+    "Year": 1999,
     "Rated": "R",
-    "Released": "01 Oct 1999",
-    "Runtime": "122 min",
-    "Genre": "Drama",
-    "Director": "Sam Mendes",
-    "Writer": "Alan Ball",
-    "Actors": "Kevin Spacey, Annette Bening, Thora Birch",
+    "Released": "1999-10-01T04:00:00.000Z",
+    "Runtime": 122,
+    "Genre": [
+      "Drama"
+    ],
+    "Director": [
+      "Sam Mendes"
+    ],
+    "Writer": [
+      "Alan Ball"
+    ],
+    "Actors": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch"
+    ],
     "Plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Won 5 Oscars. 112 wins & 102 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "BoxOffice": "$130,096,601",
+    "BoxOffice": 130096601,
     "imdbID": "tt0169547",
-    "imdbRating": "8.3",
+    "imdbRating": 8.3,
     "Stills": []
   },
   {
     "Title": "Barry Lyndon",
-    "Year": "1975",
+    "Year": 1975,
     "Rated": "PG",
-    "Released": "18 Dec 1975",
-    "Runtime": "185 min",
-    "Genre": "Adventure, Drama, War",
-    "Director": "Stanley Kubrick",
-    "Writer": "Stanley Kubrick, William Makepeace Thackeray",
-    "Actors": "Ryan O'Neal, Marisa Berenson, Patrick Magee",
+    "Released": "1975-12-18T05:00:00.000Z",
+    "Runtime": 185,
+    "Genre": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "Director": [
+      "Stanley Kubrick"
+    ],
+    "Writer": [
+      "Stanley Kubrick",
+      "William Makepeace Thackeray"
+    ],
+    "Actors": [
+      "Ryan O'Neal",
+      "Marisa Berenson",
+      "Patrick Magee"
+    ],
     "Plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
-    "Language": "English, German, French",
-    "Country": "United Kingdom, United States",
+    "Language": [
+      "English",
+      "German",
+      "French"
+    ],
+    "Country": [
+      "United Kingdom",
+      "United States"
+    ],
     "Awards": "Won 4 Oscars. 17 wins & 14 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "BoxOffice": "N/A",
+    "BoxOffice": null,
     "imdbID": "tt0072684",
-    "imdbRating": "8.1",
+    "imdbRating": 8.1,
     "Stills": []
   },
   {
     "Title": "25th Hour",
-    "Year": "2002",
+    "Year": 2002,
     "Rated": "R",
-    "Released": "10 Jan 2003",
-    "Runtime": "135 min",
-    "Genre": "Drama",
-    "Director": "Spike Lee",
-    "Writer": "David Benioff",
-    "Actors": "Edward Norton, Barry Pepper, Philip Seymour Hoffman",
+    "Released": "2003-01-10T05:00:00.000Z",
+    "Runtime": 135,
+    "Genre": [
+      "Drama"
+    ],
+    "Director": [
+      "Spike Lee"
+    ],
+    "Writer": [
+      "David Benioff"
+    ],
+    "Actors": [
+      "Edward Norton",
+      "Barry Pepper",
+      "Philip Seymour Hoffman"
+    ],
     "Plot": "Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "4 wins & 17 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNmE0YjdlYTktMTU4Ni00Mjk2LWI3NWMtM2RjNmFiOTk4YjYxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-    "BoxOffice": "$13,084,595",
+    "BoxOffice": 13084595,
     "imdbID": "tt0307901",
-    "imdbRating": "7.6",
+    "imdbRating": 7.6,
     "Stills": []
   },
   {
     "Title": "A Serious Man",
-    "Year": "2009",
+    "Year": 2009,
     "Rated": "R",
-    "Released": "06 Nov 2009",
-    "Runtime": "106 min",
-    "Genre": "Comedy, Drama",
-    "Director": "Ethan Coen, Joel Coen",
-    "Writer": "Joel Coen, Ethan Coen",
-    "Actors": "Michael Stuhlbarg, Richard Kind, Sari Lennick",
+    "Released": "2009-11-06T05:00:00.000Z",
+    "Runtime": 106,
+    "Genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "Director": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "Writer": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "Actors": [
+      "Michael Stuhlbarg",
+      "Richard Kind",
+      "Sari Lennick"
+    ],
     "Plot": "Larry Gopnik, a Midwestern physics teacher, watches his life unravel over multiple sudden incidents. Though seeking meaning and answers amidst his turmoils, he seems to keep sinking.",
-    "Language": "English, Yiddish, Hebrew",
-    "Country": "United Kingdom, France, United States",
+    "Language": [
+      "English",
+      "Yiddish",
+      "Hebrew"
+    ],
+    "Country": [
+      "United Kingdom",
+      "France",
+      "United States"
+    ],
     "Awards": "Nominated for 2 Oscars. 17 wins & 80 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNGZkODlhMjktNzhhMC00YjFiLWJmODMtNjQwOGMzZjMxNTZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "BoxOffice": "$9,228,768",
+    "BoxOffice": 9228768,
     "imdbID": "tt1019452",
-    "imdbRating": "7.0",
+    "imdbRating": 7,
     "Stills": []
   },
   {
     "Title": "A.I. Artificial Intelligence",
-    "Year": "2001",
+    "Year": 2001,
     "Rated": "PG-13",
-    "Released": "29 Jun 2001",
-    "Runtime": "146 min",
-    "Genre": "Drama, Sci-Fi",
-    "Director": "Steven Spielberg",
-    "Writer": "Brian Aldiss, Ian Watson, Steven Spielberg",
-    "Actors": "Haley Joel Osment, Jude Law, Frances O'Connor",
+    "Released": "2001-06-29T04:00:00.000Z",
+    "Runtime": 146,
+    "Genre": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Steven Spielberg"
+    ],
+    "Writer": [
+      "Brian Aldiss",
+      "Ian Watson",
+      "Steven Spielberg"
+    ],
+    "Actors": [
+      "Haley Joel Osment",
+      "Jude Law",
+      "Frances O'Connor"
+    ],
     "Plot": "A highly advanced robotic boy longs to become \"real\" so that he can regain the love of his human mother.",
-    "Language": "English",
-    "Country": "United States, United Kingdom",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States",
+      "United Kingdom"
+    ],
     "Awards": "Nominated for 2 Oscars. 17 wins & 71 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNWU2NzEyMDYtM2MyOS00OGM3LWFkNzAtMzRiNzE2ZjU5ZTljXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "BoxOffice": "$78,616,689",
+    "BoxOffice": 78616689,
     "imdbID": "tt0212720",
-    "imdbRating": "7.2",
+    "imdbRating": 7.2,
     "Stills": []
   },
   {
     "Title": "American Beauty",
-    "Year": "1999",
+    "Year": 1999,
     "Rated": "R",
-    "Released": "01 Oct 1999",
-    "Runtime": "122 min",
-    "Genre": "Drama",
-    "Director": "Sam Mendes",
-    "Writer": "Alan Ball",
-    "Actors": "Kevin Spacey, Annette Bening, Thora Birch",
+    "Released": "1999-10-01T04:00:00.000Z",
+    "Runtime": 122,
+    "Genre": [
+      "Drama"
+    ],
+    "Director": [
+      "Sam Mendes"
+    ],
+    "Writer": [
+      "Alan Ball"
+    ],
+    "Actors": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch"
+    ],
     "Plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Won 5 Oscars. 112 wins & 102 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "BoxOffice": "$130,096,601",
+    "BoxOffice": 130096601,
     "imdbID": "tt0169547",
-    "imdbRating": "8.3",
+    "imdbRating": 8.3,
     "Stills": []
   },
   {
     "Title": "Blade Runner",
-    "Year": "1982",
+    "Year": 1982,
     "Rated": "R",
-    "Released": "25 Jun 1982",
-    "Runtime": "117 min",
-    "Genre": "Action, Drama, Sci-Fi",
-    "Director": "Ridley Scott",
-    "Writer": "Hampton Fancher, David Webb Peoples, Philip K. Dick",
-    "Actors": "Harrison Ford, Rutger Hauer, Sean Young",
+    "Released": "1982-06-25T04:00:00.000Z",
+    "Runtime": 117,
+    "Genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Ridley Scott"
+    ],
+    "Writer": [
+      "Hampton Fancher",
+      "David Webb Peoples",
+      "Philip K. Dick"
+    ],
+    "Actors": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young"
+    ],
     "Plot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
-    "Language": "English, German, Cantonese, Japanese, Hungarian, Arabic, Korean",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "German",
+      "Cantonese",
+      "Japanese",
+      "Hungarian",
+      "Arabic",
+      "Korean"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 2 Oscars. 13 wins & 19 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "BoxOffice": "$32,914,489",
+    "BoxOffice": 32914489,
     "imdbID": "tt0083658",
-    "imdbRating": "8.1",
+    "imdbRating": 8.1,
     "Stills": []
   },
   {
     "Title": "Blue Valentine",
-    "Year": "2010",
+    "Year": 2010,
     "Rated": "R",
-    "Released": "28 Jan 2011",
-    "Runtime": "112 min",
-    "Genre": "Drama, Romance",
-    "Director": "Derek Cianfrance",
-    "Writer": "Derek Cianfrance, Joey Curtis, Cami Delavigne",
-    "Actors": "Ryan Gosling, Michelle Williams, John Doman",
+    "Released": "2011-01-28T05:00:00.000Z",
+    "Runtime": 112,
+    "Genre": [
+      "Drama",
+      "Romance"
+    ],
+    "Director": [
+      "Derek Cianfrance"
+    ],
+    "Writer": [
+      "Derek Cianfrance",
+      "Joey Curtis",
+      "Cami Delavigne"
+    ],
+    "Actors": [
+      "Ryan Gosling",
+      "Michelle Williams",
+      "John Doman"
+    ],
     "Plot": "The relationship of a contemporary married couple, charting their evolution over a span of years by cross-cutting between time periods.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 1 Oscar. 9 wins & 56 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MTQ2MzA1Ml5BMl5BanBnXkFtZTcwODE3NTgwNA@@._V1_SX300.jpg",
-    "BoxOffice": "$9,706,328",
+    "BoxOffice": 9706328,
     "imdbID": "tt1120985",
-    "imdbRating": "7.3",
+    "imdbRating": 7.3,
     "Stills": []
   },
   {
     "Title": "Brick",
-    "Year": "2005",
+    "Year": 2005,
     "Rated": "R",
-    "Released": "14 Apr 2006",
-    "Runtime": "110 min",
-    "Genre": "Crime, Drama, Mystery",
-    "Director": "Rian Johnson",
-    "Writer": "Rian Johnson",
-    "Actors": "Joseph Gordon-Levitt, Lukas Haas, Emilie de Ravin",
+    "Released": "2006-04-14T04:00:00.000Z",
+    "Runtime": 110,
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "Director": [
+      "Rian Johnson"
+    ],
+    "Writer": [
+      "Rian Johnson"
+    ],
+    "Actors": [
+      "Joseph Gordon-Levitt",
+      "Lukas Haas",
+      "Emilie de Ravin"
+    ],
     "Plot": "A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "11 wins & 23 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzMjIxNDc1MF5BMl5BanBnXkFtZTYwOTk4NDc2._V1_SX300.jpg",
-    "BoxOffice": "$2,075,743",
+    "BoxOffice": 2075743,
     "imdbID": "tt0393109",
-    "imdbRating": "7.2",
+    "imdbRating": 7.2,
     "Stills": []
   },
   {
     "Title": "Bronson",
-    "Year": "2008",
+    "Year": 2008,
     "Rated": "R",
-    "Released": "13 Mar 2009",
-    "Runtime": "92 min",
-    "Genre": "Action, Crime, Drama",
-    "Director": "Nicolas Winding Refn",
-    "Writer": "Brock Norman Brock, Nicolas Winding Refn",
-    "Actors": "Tom Hardy, Kelly Adams, Luing Andrews",
+    "Released": "2009-03-13T04:00:00.000Z",
+    "Runtime": 92,
+    "Genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "Director": [
+      "Nicolas Winding Refn"
+    ],
+    "Writer": [
+      "Brock Norman Brock",
+      "Nicolas Winding Refn"
+    ],
+    "Actors": [
+      "Tom Hardy",
+      "Kelly Adams",
+      "Luing Andrews"
+    ],
     "Plot": "A young man who was sentenced to seven years in prison for robbing a post office ends up spending three decades in solitary confinement. During this time, his own personality is supplanted by his alter-ego, Charles Bronson.",
-    "Language": "English, Spanish",
-    "Country": "United Kingdom, Denmark",
+    "Language": [
+      "English",
+      "Spanish"
+    ],
+    "Country": [
+      "United Kingdom",
+      "Denmark"
+    ],
     "Awards": "3 wins & 7 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZGYwYzdkYmYtYTIzOC00OWU3LWFkOTAtYTFjZTY0MDE4M2VkXkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_SX300.jpg",
-    "BoxOffice": "$104,979",
+    "BoxOffice": 104979,
     "imdbID": "tt1172570",
-    "imdbRating": "7.0",
+    "imdbRating": 7,
     "Stills": []
   },
   {
     "Title": "Buried",
-    "Year": "2010",
+    "Year": 2010,
     "Rated": "R",
-    "Released": "15 Oct 2010",
-    "Runtime": "95 min",
-    "Genre": "Drama, Mystery, Thriller",
-    "Director": "Rodrigo Cortés",
-    "Writer": "Chris Sparling",
-    "Actors": "Ryan Reynolds, José Luis García-Pérez, Robert Paterson",
+    "Released": "2010-10-15T04:00:00.000Z",
+    "Runtime": 95,
+    "Genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "Director": [
+      "Rodrigo Cortés"
+    ],
+    "Writer": [
+      "Chris Sparling"
+    ],
+    "Actors": [
+      "Ryan Reynolds",
+      "José Luis García-Pérez",
+      "Robert Paterson"
+    ],
     "Plot": "Paul is a U.S. truck driver working in Iraq. After an attack by a group of Iraqis he wakes to find he is buried alive inside a coffin. With only a lighter and a cell phone it's a race against time to escape this claustrophobic dea...",
-    "Language": "English, Arabic",
-    "Country": "Spain, United Kingdom, France, United States",
+    "Language": [
+      "English",
+      "Arabic"
+    ],
+    "Country": [
+      "Spain",
+      "United Kingdom",
+      "France",
+      "United States"
+    ],
     "Awards": "16 wins & 33 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMDIxYjU5YTEtNjg1YS00ZDk2LWEzYTYtZDIwMDU1NDRiNzUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
-    "BoxOffice": "$1,044,143",
+    "BoxOffice": 1044143,
     "imdbID": "tt1462758",
-    "imdbRating": "7.0",
+    "imdbRating": 7,
     "Stills": []
   },
   {
     "Title": "Cashback",
-    "Year": "2006",
+    "Year": 2006,
     "Rated": "R",
-    "Released": "09 May 2008",
-    "Runtime": "102 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Sean Ellis",
-    "Writer": "Sean Ellis",
-    "Actors": "Sean Biggerstaff, Emilia Fox, Michelle Ryan",
+    "Released": "2008-05-09T04:00:00.000Z",
+    "Runtime": 102,
+    "Genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "Director": [
+      "Sean Ellis"
+    ],
+    "Writer": [
+      "Sean Ellis"
+    ],
+    "Actors": [
+      "Sean Biggerstaff",
+      "Emilia Fox",
+      "Michelle Ryan"
+    ],
     "Plot": "After a painful breakup, Ben develops insomnia. To kill time, he starts working the late night shift at the local supermarket, where his artistic imagination runs wild.",
-    "Language": "English, Spanish",
-    "Country": "United Kingdom",
+    "Language": [
+      "English",
+      "Spanish"
+    ],
+    "Country": [
+      "United Kingdom"
+    ],
     "Awards": "3 wins",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZjhiZmYwMWEtZmZiOC00NDhhLWFhMjQtZmQ5Mjc0NjZhZjFmXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
-    "BoxOffice": "$25,343",
+    "BoxOffice": 25343,
     "imdbID": "tt0460740",
-    "imdbRating": "7.1",
+    "imdbRating": 7.1,
     "Stills": []
   },
   {
     "Title": "Children of Men",
-    "Year": "2006",
+    "Year": 2006,
     "Rated": "R",
-    "Released": "05 Jan 2007",
-    "Runtime": "109 min",
-    "Genre": "Action, Drama, Sci-Fi",
-    "Director": "Alfonso Cuarón",
-    "Writer": "Alfonso Cuarón, Timothy J. Sexton, David Arata",
-    "Actors": "Julianne Moore, Clive Owen, Chiwetel Ejiofor",
+    "Released": "2007-01-05T05:00:00.000Z",
+    "Runtime": 109,
+    "Genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Alfonso Cuarón"
+    ],
+    "Writer": [
+      "Alfonso Cuarón",
+      "Timothy J. Sexton",
+      "David Arata"
+    ],
+    "Actors": [
+      "Julianne Moore",
+      "Clive Owen",
+      "Chiwetel Ejiofor"
+    ],
     "Plot": "In 2027, in a chaotic world in which women have somehow become infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.",
-    "Language": "English, German, Italian, Romanian, Spanish, Arabic, Georgian, Russian, Serbian",
-    "Country": "United States, United Kingdom, Japan",
+    "Language": [
+      "English",
+      "German",
+      "Italian",
+      "Romanian",
+      "Spanish",
+      "Arabic",
+      "Georgian",
+      "Russian",
+      "Serbian"
+    ],
+    "Country": [
+      "United States",
+      "United Kingdom",
+      "Japan"
+    ],
     "Awards": "Nominated for 3 Oscars. 49 wins & 89 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZjUzY2ZhZDAtZDRlNS00MzEzLTliZjItMzMyYzM2OTdkZGJjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "BoxOffice": "$35,552,383",
+    "BoxOffice": 35552383,
     "imdbID": "tt0206634",
-    "imdbRating": "7.9",
+    "imdbRating": 7.9,
     "Stills": []
   },
   {
     "Title": "Cloud Atlas",
-    "Year": "2012",
+    "Year": 2012,
     "Rated": "R",
-    "Released": "26 Oct 2012",
-    "Runtime": "172 min",
-    "Genre": "Drama, Mystery, Sci-Fi",
-    "Director": "Tom Tykwer, Lana Wachowski, Lilly Wachowski",
-    "Writer": "David Mitchell, Lana Wachowski, Tom Tykwer",
-    "Actors": "Tom Hanks, Halle Berry, Hugh Grant",
+    "Released": "2012-10-26T04:00:00.000Z",
+    "Runtime": 172,
+    "Genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Tom Tykwer",
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "Writer": [
+      "David Mitchell",
+      "Lana Wachowski",
+      "Tom Tykwer"
+    ],
+    "Actors": [
+      "Tom Hanks",
+      "Halle Berry",
+      "Hugh Grant"
+    ],
     "Plot": "An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.",
-    "Language": "English, Spanish, Ukrainian, Korean",
-    "Country": "United States, Germany, Hong Kong, Singapore, China, United Kingdom, Spain",
+    "Language": [
+      "English",
+      "Spanish",
+      "Ukrainian",
+      "Korean"
+    ],
+    "Country": [
+      "United States",
+      "Germany",
+      "Hong Kong",
+      "Singapore",
+      "China",
+      "United Kingdom",
+      "Spain"
+    ],
     "Awards": "15 wins & 79 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_SX300.jpg",
-    "BoxOffice": "$27,108,272",
+    "BoxOffice": 27108272,
     "imdbID": "tt1371111",
-    "imdbRating": "7.4",
+    "imdbRating": 7.4,
     "Stills": []
   },
   {
     "Title": "Confessions of a Dangerous Mind",
-    "Year": "2002",
+    "Year": 2002,
     "Rated": "R",
-    "Released": "24 Jan 2003",
-    "Runtime": "113 min",
-    "Genre": "Biography, Comedy, Crime",
-    "Director": "George Clooney",
-    "Writer": "Chuck Barris, Charlie Kaufman",
-    "Actors": "Sam Rockwell, Drew Barrymore, George Clooney",
+    "Released": "2003-01-24T05:00:00.000Z",
+    "Runtime": 113,
+    "Genre": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "Director": [
+      "George Clooney"
+    ],
+    "Writer": [
+      "Chuck Barris",
+      "Charlie Kaufman"
+    ],
+    "Actors": [
+      "Sam Rockwell",
+      "Drew Barrymore",
+      "George Clooney"
+    ],
     "Plot": "An adaptation of the cult memoir of game show impresario Chuck Barris (Sam Rockwell), in which he purports to have been a C.I.A. hitman.",
-    "Language": "English, Spanish",
-    "Country": "United States, Germany, Canada",
+    "Language": [
+      "English",
+      "Spanish"
+    ],
+    "Country": [
+      "United States",
+      "Germany",
+      "Canada"
+    ],
     "Awards": "7 wins & 12 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYmFiMWVmMzUtZTUwMC00ZTVjLTgxMGItODEyNjFkMzNhN2ZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "BoxOffice": "$16,007,718",
+    "BoxOffice": 16007718,
     "imdbID": "tt0270288",
-    "imdbRating": "7.0",
+    "imdbRating": 7,
     "Stills": []
   },
   {
     "Title": "Drive",
-    "Year": "2011",
+    "Year": 2011,
     "Rated": "R",
-    "Released": "16 Sep 2011",
-    "Runtime": "100 min",
-    "Genre": "Action, Drama",
-    "Director": "Nicolas Winding Refn",
-    "Writer": "Hossein Amini, James Sallis",
-    "Actors": "Ryan Gosling, Carey Mulligan, Bryan Cranston",
+    "Released": "2011-09-16T04:00:00.000Z",
+    "Runtime": 100,
+    "Genre": [
+      "Action",
+      "Drama"
+    ],
+    "Director": [
+      "Nicolas Winding Refn"
+    ],
+    "Writer": [
+      "Hossein Amini",
+      "James Sallis"
+    ],
+    "Actors": [
+      "Ryan Gosling",
+      "Carey Mulligan",
+      "Bryan Cranston"
+    ],
     "Plot": "A mysterious Hollywood action film stuntman gets in trouble with gangsters when he tries to help his neighbor's husband rob a pawn shop while serving as his getaway driver.",
-    "Language": "English, Spanish",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "Spanish"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 1 Oscar. 79 wins & 180 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_SX300.jpg",
-    "BoxOffice": "$35,061,555",
+    "BoxOffice": 35061555,
     "imdbID": "tt0780504",
-    "imdbRating": "7.8",
+    "imdbRating": 7.8,
     "Stills": []
   },
   {
     "Title": "Enter the Void",
-    "Year": "2009",
+    "Year": 2009,
     "Rated": "Not Rated",
-    "Released": "05 May 2010",
-    "Runtime": "161 min",
-    "Genre": "Drama, Fantasy",
-    "Director": "Gaspar Noé",
-    "Writer": "Gaspar Noé, Lucile Hadzihalilovic",
-    "Actors": "Nathaniel Brown, Paz de la Huerta, Cyril Roy",
+    "Released": "2010-05-05T04:00:00.000Z",
+    "Runtime": 161,
+    "Genre": [
+      "Drama",
+      "Fantasy"
+    ],
+    "Director": [
+      "Gaspar Noé"
+    ],
+    "Writer": [
+      "Gaspar Noé",
+      "Lucile Hadzihalilovic"
+    ],
+    "Actors": [
+      "Nathaniel Brown",
+      "Paz de la Huerta",
+      "Cyril Roy"
+    ],
     "Plot": "An American drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.",
-    "Language": "English, Japanese",
-    "Country": "France, Germany, Italy, Canada, Japan",
+    "Language": [
+      "English",
+      "Japanese"
+    ],
+    "Country": [
+      "France",
+      "Germany",
+      "Italy",
+      "Canada",
+      "Japan"
+    ],
     "Awards": "4 wins & 8 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMGQwMWRmODEtYzYwMy00MzFiLWJhYWUtNWNkNWM0NWZhODBiXkEyXkFqcGdeQXVyNjQyMjcwNDM@._V1_SX300.jpg",
-    "BoxOffice": "$336,467",
+    "BoxOffice": 336467,
     "imdbID": "tt1191111",
-    "imdbRating": "7.2",
+    "imdbRating": 7.2,
     "Stills": []
   },
   {
     "Title": "Eternal Sunshine of the Spotless Mind",
-    "Year": "2004",
+    "Year": 2004,
     "Rated": "R",
-    "Released": "19 Mar 2004",
-    "Runtime": "108 min",
-    "Genre": "Drama, Romance, Sci-Fi",
-    "Director": "Michel Gondry",
-    "Writer": "Charlie Kaufman, Michel Gondry, Pierre Bismuth",
-    "Actors": "Jim Carrey, Kate Winslet, Tom Wilkinson",
+    "Released": "2004-03-19T05:00:00.000Z",
+    "Runtime": 108,
+    "Genre": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Michel Gondry"
+    ],
+    "Writer": [
+      "Charlie Kaufman",
+      "Michel Gondry",
+      "Pierre Bismuth"
+    ],
+    "Actors": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Tom Wilkinson"
+    ],
     "Plot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Won 1 Oscar. 73 wins & 111 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg",
-    "BoxOffice": "$34,400,301",
+    "BoxOffice": 34400301,
     "imdbID": "tt0338013",
-    "imdbRating": "8.3",
+    "imdbRating": 8.3,
     "Stills": []
   },
   {
     "Title": "Fight Club",
-    "Year": "1999",
+    "Year": 1999,
     "Rated": "R",
-    "Released": "15 Oct 1999",
-    "Runtime": "139 min",
-    "Genre": "Drama",
-    "Director": "David Fincher",
-    "Writer": "Chuck Palahniuk, Jim Uhls",
-    "Actors": "Brad Pitt, Edward Norton, Meat Loaf",
+    "Released": "1999-10-15T04:00:00.000Z",
+    "Runtime": 139,
+    "Genre": [
+      "Drama"
+    ],
+    "Director": [
+      "David Fincher"
+    ],
+    "Writer": [
+      "Chuck Palahniuk",
+      "Jim Uhls"
+    ],
+    "Actors": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Meat Loaf"
+    ],
     "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
-    "Language": "English",
-    "Country": "Germany, United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "Germany",
+      "United States"
+    ],
     "Awards": "Nominated for 1 Oscar. 12 wins & 38 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "BoxOffice": "$37,030,102",
+    "BoxOffice": 37030102,
     "imdbID": "tt0137523",
-    "imdbRating": "8.8",
+    "imdbRating": 8.8,
     "Stills": []
   },
   {
     "Title": "Gravity",
-    "Year": "2013",
+    "Year": 2013,
     "Rated": "PG-13",
-    "Released": "04 Oct 2013",
-    "Runtime": "91 min",
-    "Genre": "Drama, Sci-Fi, Thriller",
-    "Director": "Alfonso Cuarón",
-    "Writer": "Alfonso Cuarón, Jonás Cuarón",
-    "Actors": "Sandra Bullock, George Clooney, Ed Harris",
+    "Released": "2013-10-04T04:00:00.000Z",
+    "Runtime": 91,
+    "Genre": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "Director": [
+      "Alfonso Cuarón"
+    ],
+    "Writer": [
+      "Alfonso Cuarón",
+      "Jonás Cuarón"
+    ],
+    "Actors": [
+      "Sandra Bullock",
+      "George Clooney",
+      "Ed Harris"
+    ],
     "Plot": "Two astronauts work together to survive after an accident leaves them stranded in space.",
-    "Language": "English, Greenlandic",
-    "Country": "United Kingdom, United States",
+    "Language": [
+      "English",
+      "Greenlandic"
+    ],
+    "Country": [
+      "United Kingdom",
+      "United States"
+    ],
     "Awards": "Won 7 Oscars. 240 wins & 187 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SX300.jpg",
-    "BoxOffice": "$274,092,705",
+    "BoxOffice": 274092705,
     "imdbID": "tt1454468",
-    "imdbRating": "7.7",
+    "imdbRating": 7.7,
     "Stills": []
   },
   {
     "Title": "Inception",
-    "Year": "2010",
+    "Year": 2010,
     "Rated": "PG-13",
-    "Released": "16 Jul 2010",
-    "Runtime": "148 min",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Director": "Christopher Nolan",
-    "Writer": "Christopher Nolan",
-    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+    "Released": "2010-07-16T04:00:00.000Z",
+    "Runtime": 148,
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Christopher Nolan"
+    ],
+    "Writer": [
+      "Christopher Nolan"
+    ],
+    "Actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
     "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
-    "Language": "English, Japanese, French",
-    "Country": "United States, United Kingdom",
+    "Language": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "Country": [
+      "United States",
+      "United Kingdom"
+    ],
     "Awards": "Won 4 Oscars. 159 wins & 220 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
-    "BoxOffice": "$292,587,330",
+    "BoxOffice": 292587330,
     "imdbID": "tt1375666",
-    "imdbRating": "8.8",
+    "imdbRating": 8.8,
     "Stills": []
   },
   {
     "Title": "Life of Pi",
-    "Year": "2012",
+    "Year": 2012,
     "Rated": "PG",
-    "Released": "21 Nov 2012",
-    "Runtime": "127 min",
-    "Genre": "Adventure, Drama, Fantasy",
-    "Director": "Ang Lee",
-    "Writer": "Yann Martel, David Magee",
-    "Actors": "Suraj Sharma, Irrfan Khan, Adil Hussain",
+    "Released": "2012-11-21T05:00:00.000Z",
+    "Runtime": 127,
+    "Genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "Director": [
+      "Ang Lee"
+    ],
+    "Writer": [
+      "Yann Martel",
+      "David Magee"
+    ],
+    "Actors": [
+      "Suraj Sharma",
+      "Irrfan Khan",
+      "Adil Hussain"
+    ],
     "Plot": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
-    "Language": "English, Hindi, Japanese, French",
-    "Country": "United States, Taiwan, United Kingdom, Canada, India, France",
+    "Language": [
+      "English",
+      "Hindi",
+      "Japanese",
+      "French"
+    ],
+    "Country": [
+      "United States",
+      "Taiwan",
+      "United Kingdom",
+      "Canada",
+      "India",
+      "France"
+    ],
     "Awards": "Won 4 Oscars. 81 wins & 135 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_SX300.jpg",
-    "BoxOffice": "$124,987,023",
+    "BoxOffice": 124987023,
     "imdbID": "tt0454876",
-    "imdbRating": "7.9",
+    "imdbRating": 7.9,
     "Stills": []
   },
   {
     "Title": "Looper",
-    "Year": "2012",
+    "Year": 2012,
     "Rated": "R",
-    "Released": "28 Sep 2012",
-    "Runtime": "119 min",
-    "Genre": "Action, Drama, Sci-Fi",
-    "Director": "Rian Johnson",
-    "Writer": "Rian Johnson",
-    "Actors": "Joseph Gordon-Levitt, Bruce Willis, Emily Blunt",
+    "Released": "2012-09-28T04:00:00.000Z",
+    "Runtime": 119,
+    "Genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Rian Johnson"
+    ],
+    "Writer": [
+      "Rian Johnson"
+    ],
+    "Actors": [
+      "Joseph Gordon-Levitt",
+      "Bruce Willis",
+      "Emily Blunt"
+    ],
     "Plot": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassin...",
-    "Language": "English, French",
-    "Country": "United States, China",
+    "Language": [
+      "English",
+      "French"
+    ],
+    "Country": [
+      "United States",
+      "China"
+    ],
     "Awards": "18 wins & 47 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzOA@@._V1_SX300.jpg",
-    "BoxOffice": "$66,486,205",
+    "BoxOffice": 66486205,
     "imdbID": "tt1276104",
-    "imdbRating": "7.4",
+    "imdbRating": 7.4,
     "Stills": []
   },
   {
     "Title": "Lost in Translation",
-    "Year": "2003",
+    "Year": 2003,
     "Rated": "R",
-    "Released": "03 Oct 2003",
-    "Runtime": "102 min",
-    "Genre": "Comedy, Drama",
-    "Director": "Sofia Coppola",
-    "Writer": "Sofia Coppola",
-    "Actors": "Bill Murray, Scarlett Johansson, Giovanni Ribisi",
+    "Released": "2003-10-03T04:00:00.000Z",
+    "Runtime": 102,
+    "Genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "Director": [
+      "Sofia Coppola"
+    ],
+    "Writer": [
+      "Sofia Coppola"
+    ],
+    "Actors": [
+      "Bill Murray",
+      "Scarlett Johansson",
+      "Giovanni Ribisi"
+    ],
     "Plot": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
-    "Language": "English, Japanese, German, French",
-    "Country": "United States, Japan",
+    "Language": [
+      "English",
+      "Japanese",
+      "German",
+      "French"
+    ],
+    "Country": [
+      "United States",
+      "Japan"
+    ],
     "Awards": "Won 1 Oscar. 97 wins & 133 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg",
-    "BoxOffice": "$44,585,453",
+    "BoxOffice": 44585453,
     "imdbID": "tt0335266",
-    "imdbRating": "7.7",
+    "imdbRating": 7.7,
     "Stills": []
   },
   {
     "Title": "Magnolia",
-    "Year": "1999",
+    "Year": 1999,
     "Rated": "R",
-    "Released": "07 Jan 2000",
-    "Runtime": "188 min",
-    "Genre": "Drama",
-    "Director": "Paul Thomas Anderson",
-    "Writer": "Paul Thomas Anderson",
-    "Actors": "Tom Cruise, Jason Robards, Julianne Moore",
+    "Released": "2000-01-07T05:00:00.000Z",
+    "Runtime": 188,
+    "Genre": [
+      "Drama"
+    ],
+    "Director": [
+      "Paul Thomas Anderson"
+    ],
+    "Writer": [
+      "Paul Thomas Anderson"
+    ],
+    "Actors": [
+      "Tom Cruise",
+      "Jason Robards",
+      "Julianne Moore"
+    ],
     "Plot": "An epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.",
-    "Language": "English, German, French",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "German",
+      "French"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 3 Oscars. 28 wins & 59 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZjk3YThkNDktNjZjMS00MTBiLTllNTAtYzkzMTU0N2QwYjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "BoxOffice": "$22,455,976",
+    "BoxOffice": 22455976,
     "imdbID": "tt0175880",
-    "imdbRating": "8.0",
+    "imdbRating": 8,
     "Stills": []
   },
   {
     "Title": "Memento",
-    "Year": "2000",
+    "Year": 2000,
     "Rated": "R",
-    "Released": "25 May 2001",
-    "Runtime": "113 min",
-    "Genre": "Mystery, Thriller",
-    "Director": "Christopher Nolan",
-    "Writer": "Christopher Nolan, Jonathan Nolan",
-    "Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+    "Released": "2001-05-25T04:00:00.000Z",
+    "Runtime": 113,
+    "Genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "Director": [
+      "Christopher Nolan"
+    ],
+    "Writer": [
+      "Christopher Nolan",
+      "Jonathan Nolan"
+    ],
+    "Actors": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano"
+    ],
     "Plot": "A man with short-term memory loss attempts to track down his wife's murderer.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 2 Oscars. 57 wins & 59 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "BoxOffice": "$25,544,867",
+    "BoxOffice": 25544867,
     "imdbID": "tt0209144",
-    "imdbRating": "8.4",
+    "imdbRating": 8.4,
     "Stills": []
   },
   {
     "Title": "Minority Report",
-    "Year": "2002",
+    "Year": 2002,
     "Rated": "PG-13",
-    "Released": "21 Jun 2002",
-    "Runtime": "145 min",
-    "Genre": "Action, Crime, Mystery",
-    "Director": "Steven Spielberg",
-    "Writer": "Scott Frank, Jon Cohen, Philip K. Dick",
-    "Actors": "Tom Cruise, Colin Farrell, Samantha Morton",
+    "Released": "2002-06-21T04:00:00.000Z",
+    "Runtime": 145,
+    "Genre": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "Director": [
+      "Steven Spielberg"
+    ],
+    "Writer": [
+      "Scott Frank",
+      "Jon Cohen",
+      "Philip K. Dick"
+    ],
+    "Actors": [
+      "Tom Cruise",
+      "Colin Farrell",
+      "Samantha Morton"
+    ],
     "Plot": "In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.",
-    "Language": "English, Swedish",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "Swedish"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 1 Oscar. 20 wins & 91 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZTI3YzZjZjEtMDdjOC00OWVjLTk0YmYtYzI2MGMwZjFiMzBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "BoxOffice": "$132,072,926",
+    "BoxOffice": 132072926,
     "imdbID": "tt0181689",
-    "imdbRating": "7.6",
+    "imdbRating": 7.6,
     "Stills": []
   },
   {
     "Title": "Moon",
-    "Year": "2009",
+    "Year": 2009,
     "Rated": "R",
-    "Released": "10 Jul 2009",
-    "Runtime": "97 min",
-    "Genre": "Drama, Mystery, Sci-Fi",
-    "Director": "Duncan Jones",
-    "Writer": "Duncan Jones, Nathan Parker",
-    "Actors": "Sam Rockwell, Kevin Spacey, Dominique McElligott",
+    "Released": "2009-07-10T04:00:00.000Z",
+    "Runtime": 97,
+    "Genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Duncan Jones"
+    ],
+    "Writer": [
+      "Duncan Jones",
+      "Nathan Parker"
+    ],
+    "Actors": [
+      "Sam Rockwell",
+      "Kevin Spacey",
+      "Dominique McElligott"
+    ],
     "Plot": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish o...",
-    "Language": "English, Spanish",
-    "Country": "United Kingdom, United States",
+    "Language": [
+      "English",
+      "Spanish"
+    ],
+    "Country": [
+      "United Kingdom",
+      "United States"
+    ],
     "Awards": "Won 1 BAFTA Award28 wins & 37 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@._V1_SX300.jpg",
-    "BoxOffice": "$5,010,163",
+    "BoxOffice": 5010163,
     "imdbID": "tt1182345",
-    "imdbRating": "7.8",
+    "imdbRating": 7.8,
     "Stills": []
   },
   {
     "Title": "Moonrise Kingdom",
-    "Year": "2012",
+    "Year": 2012,
     "Rated": "PG-13",
-    "Released": "29 Jun 2012",
-    "Runtime": "94 min",
-    "Genre": "Comedy, Drama, Family",
-    "Director": "Wes Anderson",
-    "Writer": "Wes Anderson, Roman Coppola",
-    "Actors": "Jared Gilman, Kara Hayward, Bruce Willis",
+    "Released": "2012-06-29T04:00:00.000Z",
+    "Runtime": 94,
+    "Genre": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "Director": [
+      "Wes Anderson"
+    ],
+    "Writer": [
+      "Wes Anderson",
+      "Roman Coppola"
+    ],
+    "Actors": [
+      "Jared Gilman",
+      "Kara Hayward",
+      "Bruce Willis"
+    ],
     "Plot": "A pair of young lovers flee their New England town, which causes a local search party to fan out to find them.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 1 Oscar. 36 wins & 122 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYTNjNjRhNjMtYTQyOS00MGIxLWJmZjktNGUxY2M2YTc4ZDYwXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX300.jpg",
-    "BoxOffice": "$45,512,466",
+    "BoxOffice": 45512466,
     "imdbID": "tt1748122",
-    "imdbRating": "7.8",
+    "imdbRating": 7.8,
     "Stills": []
   },
   {
     "Title": "Mud",
-    "Year": "2012",
+    "Year": 2012,
     "Rated": "PG-13",
-    "Released": "10 May 2013",
-    "Runtime": "130 min",
-    "Genre": "Drama",
-    "Director": "Jeff Nichols",
-    "Writer": "Jeff Nichols",
-    "Actors": "Matthew McConaughey, Tye Sheridan, Jacob Lofland",
+    "Released": "2013-05-10T04:00:00.000Z",
+    "Runtime": 130,
+    "Genre": [
+      "Drama"
+    ],
+    "Director": [
+      "Jeff Nichols"
+    ],
+    "Writer": [
+      "Jeff Nichols"
+    ],
+    "Actors": [
+      "Matthew McConaughey",
+      "Tye Sheridan",
+      "Jacob Lofland"
+    ],
     "Plot": "Two young boys encounter a fugitive and form a pact to help him evade the vigilantes that are on his trail and to reunite him with his true love.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "15 wins & 39 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2MzcyODgyNV5BMl5BanBnXkFtZTcwNTc4MDYwOQ@@._V1_SX300.jpg",
-    "BoxOffice": "$21,590,086",
+    "BoxOffice": 21590086,
     "imdbID": "tt1935179",
-    "imdbRating": "7.4",
+    "imdbRating": 7.4,
     "Stills": []
   },
   {
     "Title": "No Country for Old Men",
-    "Year": "2007",
+    "Year": 2007,
     "Rated": "R",
-    "Released": "21 Nov 2007",
-    "Runtime": "122 min",
-    "Genre": "Crime, Drama, Thriller",
-    "Director": "Ethan Coen, Joel Coen",
-    "Writer": "Joel Coen, Ethan Coen, Cormac McCarthy",
-    "Actors": "Tommy Lee Jones, Javier Bardem, Josh Brolin",
+    "Released": "2007-11-21T05:00:00.000Z",
+    "Runtime": 122,
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "Director": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "Writer": [
+      "Joel Coen",
+      "Ethan Coen",
+      "Cormac McCarthy"
+    ],
+    "Actors": [
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Josh Brolin"
+    ],
     "Plot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
-    "Language": "English, Spanish",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "Spanish"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Won 4 Oscars. 164 wins & 139 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg",
-    "BoxOffice": "$74,283,625",
+    "BoxOffice": 74283625,
     "imdbID": "tt0477348",
-    "imdbRating": "8.2",
+    "imdbRating": 8.2,
     "Stills": []
   },
   {
     "Title": "Oblivion",
-    "Year": "2013",
+    "Year": 2013,
     "Rated": "PG-13",
-    "Released": "19 Apr 2013",
-    "Runtime": "124 min",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Director": "Joseph Kosinski",
-    "Writer": "Karl Gajdusek, Michael Arndt, Joseph Kosinski",
-    "Actors": "Tom Cruise, Morgan Freeman, Andrea Riseborough",
+    "Released": "2013-04-19T04:00:00.000Z",
+    "Runtime": 124,
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Joseph Kosinski"
+    ],
+    "Writer": [
+      "Karl Gajdusek",
+      "Michael Arndt",
+      "Joseph Kosinski"
+    ],
+    "Actors": [
+      "Tom Cruise",
+      "Morgan Freeman",
+      "Andrea Riseborough"
+    ],
     "Plot": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "1 win & 17 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_SX300.jpg",
-    "BoxOffice": "$89,107,235",
+    "BoxOffice": 89107235,
     "imdbID": "tt1483013",
-    "imdbRating": "7.0",
+    "imdbRating": 7,
     "Stills": []
   },
   {
     "Title": "Pan's Labyrinth",
-    "Year": "2006",
+    "Year": 2006,
     "Rated": "R",
-    "Released": "19 Jan 2007",
-    "Runtime": "118 min",
-    "Genre": "Drama, Fantasy, War",
-    "Director": "Guillermo del Toro",
-    "Writer": "Guillermo del Toro",
-    "Actors": "Ivana Baquero, Ariadna Gil, Sergi López",
+    "Released": "2007-01-19T05:00:00.000Z",
+    "Runtime": 118,
+    "Genre": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ],
+    "Director": [
+      "Guillermo del Toro"
+    ],
+    "Writer": [
+      "Guillermo del Toro"
+    ],
+    "Actors": [
+      "Ivana Baquero",
+      "Ariadna Gil",
+      "Sergi López"
+    ],
     "Plot": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
-    "Language": "Spanish",
-    "Country": "Mexico, Spain",
+    "Language": [
+      "Spanish"
+    ],
+    "Country": [
+      "Mexico",
+      "Spain"
+    ],
     "Awards": "Won 3 Oscars. 109 wins & 115 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-    "BoxOffice": "$37,646,380",
+    "BoxOffice": 37646380,
     "imdbID": "tt0457430",
-    "imdbRating": "8.2",
+    "imdbRating": 8.2,
     "Stills": []
   },
   {
     "Title": "Punch-Drunk Love",
-    "Year": "2002",
+    "Year": 2002,
     "Rated": "R",
-    "Released": "01 Nov 2002",
-    "Runtime": "95 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Paul Thomas Anderson",
-    "Writer": "Paul Thomas Anderson",
-    "Actors": "Adam Sandler, Emily Watson, Philip Seymour Hoffman",
+    "Released": "2002-11-01T05:00:00.000Z",
+    "Runtime": 95,
+    "Genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "Director": [
+      "Paul Thomas Anderson"
+    ],
+    "Writer": [
+      "Paul Thomas Anderson"
+    ],
+    "Actors": [
+      "Adam Sandler",
+      "Emily Watson",
+      "Philip Seymour Hoffman"
+    ],
     "Plot": "Socially frustrated Barry Egan calls a phone-sex line to curb his loneliness. Little does he know it will land him in deep trouble and will jeopardize his burgeoning romance with the mysterious Lena.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "14 wins & 37 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYmE1OTY4NjgtYjcwNC00NWE4LWJiNGMtZmVhYTdlMWE1YzIxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "BoxOffice": "$17,844,216",
+    "BoxOffice": 17844216,
     "imdbID": "tt0272338",
-    "imdbRating": "7.3",
+    "imdbRating": 7.3,
     "Stills": []
   },
   {
     "Title": "Road to Perdition",
-    "Year": "2002",
+    "Year": 2002,
     "Rated": "R",
-    "Released": "12 Jul 2002",
-    "Runtime": "117 min",
-    "Genre": "Crime, Drama, Thriller",
-    "Director": "Sam Mendes",
-    "Writer": "Max Allan Collins, Richard Piers Rayner, David Self",
-    "Actors": "Tom Hanks, Tyler Hoechlin, Rob Maxey",
+    "Released": "2002-07-12T04:00:00.000Z",
+    "Runtime": 117,
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "Director": [
+      "Sam Mendes"
+    ],
+    "Writer": [
+      "Max Allan Collins",
+      "Richard Piers Rayner",
+      "David Self"
+    ],
+    "Actors": [
+      "Tom Hanks",
+      "Tyler Hoechlin",
+      "Rob Maxey"
+    ],
     "Plot": "A mob enforcer's son in 1930s Illinois witnesses a murder, forcing him and his father to take to the road, and his father down a path of redemption and revenge.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Won 1 Oscar. 23 wins & 82 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNjcxMmQ0MmItYTkzYy00MmUyLTlhOTQtMmJmNjE3MDMwYjdlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-    "BoxOffice": "$104,454,762",
+    "BoxOffice": 104454762,
     "imdbID": "tt0257044",
-    "imdbRating": "7.7",
+    "imdbRating": 7.7,
     "Stills": []
   },
   {
     "Title": "Ruby Sparks",
-    "Year": "2012",
+    "Year": 2012,
     "Rated": "R",
-    "Released": "06 Sep 2012",
-    "Runtime": "104 min",
-    "Genre": "Comedy, Drama, Fantasy",
-    "Director": "Jonathan Dayton, Valerie Faris",
-    "Writer": "Zoe Kazan",
-    "Actors": "Paul Dano, Zoe Kazan, Annette Bening",
+    "Released": "2012-09-06T04:00:00.000Z",
+    "Runtime": 104,
+    "Genre": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "Director": [
+      "Jonathan Dayton",
+      "Valerie Faris"
+    ],
+    "Writer": [
+      "Zoe Kazan"
+    ],
+    "Actors": [
+      "Paul Dano",
+      "Zoe Kazan",
+      "Annette Bening"
+    ],
     "Plot": "A novelist struggling with writer's block finds romance in a most unusual way: by creating a female character he thinks will love him, then willing her into existence.",
-    "Language": "English, French",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "French"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "1 win & 11 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTM5OTUyOF5BMl5BanBnXkFtZTcwODI4Nzg3Nw@@._V1_SX300.jpg",
-    "BoxOffice": "$2,540,106",
+    "BoxOffice": 2540106,
     "imdbID": "tt1839492",
-    "imdbRating": "7.2",
+    "imdbRating": 7.2,
     "Stills": []
   },
   {
     "Title": "Shutter Island",
-    "Year": "2010",
+    "Year": 2010,
     "Rated": "R",
-    "Released": "19 Feb 2010",
-    "Runtime": "138 min",
-    "Genre": "Mystery, Thriller",
-    "Director": "Martin Scorsese",
-    "Writer": "Laeta Kalogridis, Dennis Lehane",
-    "Actors": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+    "Released": "2010-02-19T05:00:00.000Z",
+    "Runtime": 138,
+    "Genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "Director": [
+      "Martin Scorsese"
+    ],
+    "Writer": [
+      "Laeta Kalogridis",
+      "Dennis Lehane"
+    ],
+    "Actors": [
+      "Leonardo DiCaprio",
+      "Emily Mortimer",
+      "Mark Ruffalo"
+    ],
     "Plot": "Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place.",
-    "Language": "English, German",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "German"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "11 wins & 66 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "BoxOffice": "$128,012,934",
+    "BoxOffice": 128012934,
     "imdbID": "tt1130884",
-    "imdbRating": "8.2",
+    "imdbRating": 8.2,
     "Stills": []
   },
   {
     "Title": "Skyfall",
-    "Year": "2012",
+    "Year": 2012,
     "Rated": "PG-13",
-    "Released": "09 Nov 2012",
-    "Runtime": "143 min",
-    "Genre": "Action, Adventure, Thriller",
-    "Director": "Sam Mendes",
-    "Writer": "Neal Purvis, Robert Wade, John Logan",
-    "Actors": "Daniel Craig, Javier Bardem, Naomie Harris",
+    "Released": "2012-11-09T05:00:00.000Z",
+    "Runtime": 143,
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "Director": [
+      "Sam Mendes"
+    ],
+    "Writer": [
+      "Neal Purvis",
+      "Robert Wade",
+      "John Logan"
+    ],
+    "Actors": [
+      "Daniel Craig",
+      "Javier Bardem",
+      "Naomie Harris"
+    ],
     "Plot": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.",
-    "Language": "English, Turkish, Shanghainese, Portuguese, Japanese",
-    "Country": "United Kingdom, United States, Turkey",
+    "Language": [
+      "English",
+      "Turkish",
+      "Shanghainese",
+      "Portuguese",
+      "Japanese"
+    ],
+    "Country": [
+      "United Kingdom",
+      "United States",
+      "Turkey"
+    ],
     "Awards": "Won 2 Oscars. 68 wins & 123 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMWZiNjE2OWItMTkwNy00ZWQzLWI0NTgtMWE0NjNiYTljN2Q1XkEyXkFqcGdeQXVyNzAwMjYxMzA@._V1_SX300.jpg",
-    "BoxOffice": "$304,360,277",
+    "BoxOffice": 304360277,
     "imdbID": "tt1074638",
-    "imdbRating": "7.8",
+    "imdbRating": 7.8,
     "Stills": []
   },
   {
     "Title": "Slumdog Millionaire",
-    "Year": "2008",
+    "Year": 2008,
     "Rated": "R",
-    "Released": "25 Dec 2008",
-    "Runtime": "120 min",
-    "Genre": "Crime, Drama, Romance",
-    "Director": "Danny Boyle, Loveleen Tandan",
-    "Writer": "Simon Beaufoy, Vikas Swarup",
-    "Actors": "Dev Patel, Freida Pinto, Saurabh Shukla",
+    "Released": "2008-12-25T05:00:00.000Z",
+    "Runtime": 120,
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "Director": [
+      "Danny Boyle",
+      "Loveleen Tandan"
+    ],
+    "Writer": [
+      "Simon Beaufoy",
+      "Vikas Swarup"
+    ],
+    "Actors": [
+      "Dev Patel",
+      "Freida Pinto",
+      "Saurabh Shukla"
+    ],
     "Plot": "A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
-    "Language": "English, Hindi, French, German",
-    "Country": "United Kingdom",
+    "Language": [
+      "English",
+      "Hindi",
+      "French",
+      "German"
+    ],
+    "Country": [
+      "United Kingdom"
+    ],
     "Awards": "Won 8 Oscars. 153 wins & 133 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "BoxOffice": "$141,319,928",
+    "BoxOffice": 141319928,
     "imdbID": "tt1010048",
-    "imdbRating": "8.0",
+    "imdbRating": 8,
     "Stills": []
   },
   {
     "Title": "Spirited Away",
-    "Year": "2001",
+    "Year": 2001,
     "Rated": "PG",
-    "Released": "28 Mar 2003",
-    "Runtime": "125 min",
-    "Genre": "Animation, Adventure, Family",
-    "Director": "Hayao Miyazaki",
-    "Writer": "Hayao Miyazaki",
-    "Actors": "Daveigh Chase, Suzanne Pleshette, Miyu Irino",
+    "Released": "2003-03-28T05:00:00.000Z",
+    "Runtime": 125,
+    "Genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "Director": [
+      "Hayao Miyazaki"
+    ],
+    "Writer": [
+      "Hayao Miyazaki"
+    ],
+    "Actors": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Miyu Irino"
+    ],
     "Plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, a world where humans are changed into beasts.",
-    "Language": "Japanese",
-    "Country": "Japan",
+    "Language": [
+      "Japanese"
+    ],
+    "Country": [
+      "Japan"
+    ],
     "Awards": "Won 1 Oscar. 58 wins & 31 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "BoxOffice": "$15,205,725",
+    "BoxOffice": 15205725,
     "imdbID": "tt0245429",
-    "imdbRating": "8.6",
+    "imdbRating": 8.6,
     "Stills": []
   },
   {
     "Title": "Sunshine",
-    "Year": "2007",
+    "Year": 2007,
     "Rated": "R",
-    "Released": "27 Jul 2007",
-    "Runtime": "107 min",
-    "Genre": "Sci-Fi, Thriller",
-    "Director": "Danny Boyle",
-    "Writer": "Alex Garland",
-    "Actors": "Cillian Murphy, Rose Byrne, Chris Evans",
+    "Released": "2007-07-27T04:00:00.000Z",
+    "Runtime": 107,
+    "Genre": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "Director": [
+      "Danny Boyle"
+    ],
+    "Writer": [
+      "Alex Garland"
+    ],
+    "Actors": [
+      "Cillian Murphy",
+      "Rose Byrne",
+      "Chris Evans"
+    ],
     "Plot": "A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.",
-    "Language": "English",
-    "Country": "United Kingdom, United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United Kingdom",
+      "United States"
+    ],
     "Awards": "1 win & 23 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMDliNGY4ZGQtMjU5MS00ODhjLWExMDEtNzI1NmIwZDkzZWQwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-    "BoxOffice": "$3,675,753",
+    "BoxOffice": 3675753,
     "imdbID": "tt0448134",
-    "imdbRating": "7.2",
+    "imdbRating": 7.2,
     "Stills": []
   },
   {
     "Title": "Suspiria",
-    "Year": "1977",
+    "Year": 1977,
     "Rated": "R",
-    "Released": "12 Aug 1977",
-    "Runtime": "92 min",
-    "Genre": "Horror",
-    "Director": "Dario Argento",
-    "Writer": "Dario Argento, Daria Nicolodi, Thomas De Quincey",
-    "Actors": "Jessica Harper, Stefania Casini, Flavio Bucci",
+    "Released": "1977-08-12T04:00:00.000Z",
+    "Runtime": 92,
+    "Genre": [
+      "Horror"
+    ],
+    "Director": [
+      "Dario Argento"
+    ],
+    "Writer": [
+      "Dario Argento",
+      "Daria Nicolodi",
+      "Thomas De Quincey"
+    ],
+    "Actors": [
+      "Jessica Harper",
+      "Stefania Casini",
+      "Flavio Bucci"
+    ],
     "Plot": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
-    "Language": "Italian, Russian, English, German, Latin",
-    "Country": "Italy",
+    "Language": [
+      "Italian",
+      "Russian",
+      "English",
+      "German",
+      "Latin"
+    ],
+    "Country": [
+      "Italy"
+    ],
     "Awards": "1 win & 4 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZGRjNjljOGEtZjFmMi00YzU1LWIxOWYtZTQzODMzNDQzMzY1XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
-    "BoxOffice": "N/A",
+    "BoxOffice": null,
     "imdbID": "tt0076786",
-    "imdbRating": "7.3",
+    "imdbRating": 7.3,
     "Stills": []
   },
   {
     "Title": "Synecdoche, New York",
-    "Year": "2008",
+    "Year": 2008,
     "Rated": "R",
-    "Released": "05 Feb 2009",
-    "Runtime": "124 min",
-    "Genre": "Drama",
-    "Director": "Charlie Kaufman",
-    "Writer": "Charlie Kaufman",
-    "Actors": "Philip Seymour Hoffman, Samantha Morton, Michelle Williams",
+    "Released": "2009-02-05T05:00:00.000Z",
+    "Runtime": 124,
+    "Genre": [
+      "Drama"
+    ],
+    "Director": [
+      "Charlie Kaufman"
+    ],
+    "Writer": [
+      "Charlie Kaufman"
+    ],
+    "Actors": [
+      "Philip Seymour Hoffman",
+      "Samantha Morton",
+      "Michelle Williams"
+    ],
     "Plot": "A theatre director struggles with his work, and the women in his life, as he creates a life-size replica of New York City inside a warehouse as part of his new play.",
-    "Language": "English, German",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "German"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "8 wins & 29 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0MjIyOTI3MF5BMl5BanBnXkFtZTcwODM5NTY5MQ@@._V1_SX300.jpg",
-    "BoxOffice": "$3,083,538",
+    "BoxOffice": 3083538,
     "imdbID": "tt0383028",
-    "imdbRating": "7.5",
+    "imdbRating": 7.5,
     "Stills": []
   },
   {
     "Title": "Taxi Driver",
-    "Year": "1976",
+    "Year": 1976,
     "Rated": "R",
-    "Released": "09 Feb 1976",
-    "Runtime": "114 min",
-    "Genre": "Crime, Drama",
-    "Director": "Martin Scorsese",
-    "Writer": "Paul Schrader",
-    "Actors": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+    "Released": "1976-02-09T05:00:00.000Z",
+    "Runtime": 114,
+    "Genre": [
+      "Crime",
+      "Drama"
+    ],
+    "Director": [
+      "Martin Scorsese"
+    ],
+    "Writer": [
+      "Paul Schrader"
+    ],
+    "Actors": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd"
+    ],
     "Plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
-    "Language": "English, Spanish",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "Spanish"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 4 Oscars. 22 wins & 21 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-    "BoxOffice": "$28,262,574",
+    "BoxOffice": 28262574,
     "imdbID": "tt0075314",
-    "imdbRating": "8.2",
+    "imdbRating": 8.2,
     "Stills": []
   },
   {
     "Title": "The Curious Case of Benjamin Button",
-    "Year": "2008",
+    "Year": 2008,
     "Rated": "PG-13",
-    "Released": "25 Dec 2008",
-    "Runtime": "166 min",
-    "Genre": "Drama, Fantasy, Romance",
-    "Director": "David Fincher",
-    "Writer": "Eric Roth, Robin Swicord, F. Scott Fitzgerald",
-    "Actors": "Brad Pitt, Cate Blanchett, Tilda Swinton",
+    "Released": "2008-12-25T05:00:00.000Z",
+    "Runtime": 166,
+    "Genre": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "Director": [
+      "David Fincher"
+    ],
+    "Writer": [
+      "Eric Roth",
+      "Robin Swicord",
+      "F. Scott Fitzgerald"
+    ],
+    "Actors": [
+      "Brad Pitt",
+      "Cate Blanchett",
+      "Tilda Swinton"
+    ],
     "Plot": "Tells the story of Benjamin Button, a man who starts aging backwards with consequences.",
-    "Language": "English, Russian, French",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "Russian",
+      "French"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Won 3 Oscars. 83 wins & 160 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMzI4M2I1MTItYjdiYi00YTZhLTg0NDgtZWIzOGU5ZmM3NWZlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-    "BoxOffice": "$127,509,326",
+    "BoxOffice": 127509326,
     "imdbID": "tt0421715",
-    "imdbRating": "7.8",
+    "imdbRating": 7.8,
     "Stills": []
   },
   {
     "Title": "The Dark Knight",
-    "Year": "2008",
+    "Year": 2008,
     "Rated": "PG-13",
-    "Released": "18 Jul 2008",
-    "Runtime": "152 min",
-    "Genre": "Action, Crime, Drama",
-    "Director": "Christopher Nolan",
-    "Writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
-    "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+    "Released": "2008-07-18T04:00:00.000Z",
+    "Runtime": 152,
+    "Genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "Director": [
+      "Christopher Nolan"
+    ],
+    "Writer": [
+      "Jonathan Nolan",
+      "Christopher Nolan",
+      "David S. Goyer"
+    ],
+    "Actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
     "Plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-    "Language": "English, Mandarin",
-    "Country": "United States, United Kingdom",
+    "Language": [
+      "English",
+      "Mandarin"
+    ],
+    "Country": [
+      "United States",
+      "United Kingdom"
+    ],
     "Awards": "Won 2 Oscars. 162 wins & 164 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
-    "BoxOffice": "$534,987,076",
+    "BoxOffice": 534987076,
     "imdbID": "tt0468569",
-    "imdbRating": "9.0",
+    "imdbRating": 9,
     "Stills": []
   },
   {
     "Title": "The Diving Bell and the Butterfly",
-    "Year": "2007",
+    "Year": 2007,
     "Rated": "PG-13",
-    "Released": "01 Feb 2008",
-    "Runtime": "112 min",
-    "Genre": "Biography, Drama",
-    "Director": "Julian Schnabel",
-    "Writer": "Ronald Harwood, Jean-Dominique Bauby",
-    "Actors": "Mathieu Amalric, Emmanuelle Seigner, Marie-Josée Croze",
+    "Released": "2008-02-01T05:00:00.000Z",
+    "Runtime": 112,
+    "Genre": [
+      "Biography",
+      "Drama"
+    ],
+    "Director": [
+      "Julian Schnabel"
+    ],
+    "Writer": [
+      "Ronald Harwood",
+      "Jean-Dominique Bauby"
+    ],
+    "Actors": [
+      "Mathieu Amalric",
+      "Emmanuelle Seigner",
+      "Marie-Josée Croze"
+    ],
     "Plot": "The true story of Elle editor Jean-Dominique Bauby who suffers a stroke and has to live with an almost totally paralyzed body; only his left eye isn't paralyzed.",
-    "Language": "French",
-    "Country": "France, United States",
+    "Language": [
+      "French"
+    ],
+    "Country": [
+      "France",
+      "United States"
+    ],
     "Awards": "Nominated for 4 Oscars. 68 wins & 106 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3MjkzMDkxN15BMl5BanBnXkFtZTcwODAyMTU1MQ@@._V1_SX300.jpg",
-    "BoxOffice": "$6,003,227",
+    "BoxOffice": 6003227,
     "imdbID": "tt0401383",
-    "imdbRating": "8.0",
+    "imdbRating": 8,
     "Stills": []
   },
   {
     "Title": "The Girl with the Dragon Tattoo",
-    "Year": "2011",
+    "Year": 2011,
     "Rated": "R",
-    "Released": "21 Dec 2011",
-    "Runtime": "158 min",
-    "Genre": "Crime, Drama, Mystery",
-    "Director": "David Fincher",
-    "Writer": "Steven Zaillian, Stieg Larsson",
-    "Actors": "Daniel Craig, Rooney Mara, Christopher Plummer",
+    "Released": "2011-12-21T05:00:00.000Z",
+    "Runtime": 158,
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "Director": [
+      "David Fincher"
+    ],
+    "Writer": [
+      "Steven Zaillian",
+      "Stieg Larsson"
+    ],
+    "Actors": [
+      "Daniel Craig",
+      "Rooney Mara",
+      "Christopher Plummer"
+    ],
     "Plot": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for 40 years by young computer hacker Lisbeth Salander.",
-    "Language": "English, Swedish",
-    "Country": "United States, Sweden, Norway",
+    "Language": [
+      "English",
+      "Swedish"
+    ],
+    "Country": [
+      "United States",
+      "Sweden",
+      "Norway"
+    ],
     "Awards": "Won 1 Oscar. 27 wins & 91 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg",
-    "BoxOffice": "$102,515,793",
+    "BoxOffice": 102515793,
     "imdbID": "tt1568346",
-    "imdbRating": "7.8",
+    "imdbRating": 7.8,
     "Stills": []
   },
   {
     "Title": "The Hitchhiker's Guide to the Galaxy",
-    "Year": "2005",
+    "Year": 2005,
     "Rated": "PG",
-    "Released": "29 Apr 2005",
-    "Runtime": "109 min",
-    "Genre": "Adventure, Comedy, Sci-Fi",
-    "Director": "Garth Jennings",
-    "Writer": "Douglas Adams, Karey Kirkpatrick",
-    "Actors": "Martin Freeman, Yasiin Bey, Sam Rockwell",
+    "Released": "2005-04-29T04:00:00.000Z",
+    "Runtime": 109,
+    "Genre": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Garth Jennings"
+    ],
+    "Writer": [
+      "Douglas Adams",
+      "Karey Kirkpatrick"
+    ],
+    "Actors": [
+      "Martin Freeman",
+      "Yasiin Bey",
+      "Sam Rockwell"
+    ],
     "Plot": "Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of \"The Hitchhiker's Guide to the Galaxy.\"",
-    "Language": "English",
-    "Country": "United Kingdom, United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United Kingdom",
+      "United States"
+    ],
     "Awards": "1 win & 10 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZmU5MGU4MjctNjA2OC00N2FhLWFhNWQtMzQyMGI2ZmQ0Y2YyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-    "BoxOffice": "$51,085,416",
+    "BoxOffice": 51085416,
     "imdbID": "tt0371724",
-    "imdbRating": "6.7",
+    "imdbRating": 6.7,
     "Stills": []
   },
   {
     "Title": "The Machinist",
-    "Year": "2004",
+    "Year": 2004,
     "Rated": "R",
-    "Released": "03 Dec 2004",
-    "Runtime": "101 min",
-    "Genre": "Drama, Thriller",
-    "Director": "Brad Anderson",
-    "Writer": "Scott Kosar",
-    "Actors": "Christian Bale, Jennifer Jason Leigh, Aitana Sánchez-Gijón",
+    "Released": "2004-12-03T05:00:00.000Z",
+    "Runtime": 101,
+    "Genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "Director": [
+      "Brad Anderson"
+    ],
+    "Writer": [
+      "Scott Kosar"
+    ],
+    "Actors": [
+      "Christian Bale",
+      "Jennifer Jason Leigh",
+      "Aitana Sánchez-Gijón"
+    ],
     "Plot": "An industrial worker who hasn't slept in a year begins to doubt his own sanity.",
-    "Language": "English, Spanish",
-    "Country": "Spain, France, United Kingdom, United States",
+    "Language": [
+      "English",
+      "Spanish"
+    ],
+    "Country": [
+      "Spain",
+      "France",
+      "United Kingdom",
+      "United States"
+    ],
     "Awards": "7 wins & 15 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNjk1NzBlY2YtNjJmNi00YTVmLWI2OTgtNDUxNDE5NjUzZmE0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
-    "BoxOffice": "$1,082,715",
+    "BoxOffice": 1082715,
     "imdbID": "tt0361862",
-    "imdbRating": "7.7",
+    "imdbRating": 7.7,
     "Stills": []
   },
   {
     "Title": "The Master",
-    "Year": "2012",
+    "Year": 2012,
     "Rated": "R",
-    "Released": "21 Sep 2012",
-    "Runtime": "138 min",
-    "Genre": "Drama, History",
-    "Director": "Paul Thomas Anderson",
-    "Writer": "Paul Thomas Anderson",
-    "Actors": "Joaquin Phoenix, Philip Seymour Hoffman, Amy Adams",
+    "Released": "2012-09-21T04:00:00.000Z",
+    "Runtime": 138,
+    "Genre": [
+      "Drama",
+      "History"
+    ],
+    "Director": [
+      "Paul Thomas Anderson"
+    ],
+    "Writer": [
+      "Paul Thomas Anderson"
+    ],
+    "Actors": [
+      "Joaquin Phoenix",
+      "Philip Seymour Hoffman",
+      "Amy Adams"
+    ],
     "Plot": "A Naval veteran arrives home from war unsettled and uncertain of his future - until he is tantalized by the Cause and its charismatic leader.",
-    "Language": "English, Filipino",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "Filipino"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 3 Oscars. 75 wins & 187 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_SX300.jpg",
-    "BoxOffice": "$16,377,274",
+    "BoxOffice": 16377274,
     "imdbID": "tt1560747",
-    "imdbRating": "7.1",
+    "imdbRating": 7.1,
     "Stills": []
   },
   {
     "Title": "The New World",
-    "Year": "2005",
+    "Year": 2005,
     "Rated": "PG-13",
-    "Released": "20 Jan 2006",
-    "Runtime": "135 min",
-    "Genre": "Biography, Drama, History",
-    "Director": "Terrence Malick",
-    "Writer": "Terrence Malick",
-    "Actors": "Colin Farrell, Q'orianka Kilcher, Christopher Plummer",
+    "Released": "2006-01-20T05:00:00.000Z",
+    "Runtime": 135,
+    "Genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "Director": [
+      "Terrence Malick"
+    ],
+    "Writer": [
+      "Terrence Malick"
+    ],
+    "Actors": [
+      "Colin Farrell",
+      "Q'orianka Kilcher",
+      "Christopher Plummer"
+    ],
     "Plot": "The story of the English exploration of Virginia, and of the changing world and loves of Pocahontas.",
-    "Language": "English, Algonquin, Inuktitut",
-    "Country": "United States, United Kingdom",
+    "Language": [
+      "English",
+      "Algonquin",
+      "Inuktitut"
+    ],
+    "Country": [
+      "United States",
+      "United Kingdom"
+    ],
     "Awards": "Nominated for 1 Oscar. 6 wins & 34 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTdjNjQ5ZTAtODJlZi00MzcyLWJjY2UtNDZhNTJkYjlkNGY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "BoxOffice": "$12,712,093",
+    "BoxOffice": 12712093,
     "imdbID": "tt0402399",
-    "imdbRating": "6.7",
+    "imdbRating": 6.7,
     "Stills": []
   },
   {
     "Title": "The Place Beyond the Pines",
-    "Year": "2012",
+    "Year": 2012,
     "Rated": "R",
-    "Released": "19 Apr 2013",
-    "Runtime": "140 min",
-    "Genre": "Crime, Drama, Thriller",
-    "Director": "Derek Cianfrance",
-    "Writer": "Derek Cianfrance, Ben Coccio, Darius Marder",
-    "Actors": "Ryan Gosling, Bradley Cooper, Eva Mendes",
+    "Released": "2013-04-19T04:00:00.000Z",
+    "Runtime": 140,
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "Director": [
+      "Derek Cianfrance"
+    ],
+    "Writer": [
+      "Derek Cianfrance",
+      "Ben Coccio",
+      "Darius Marder"
+    ],
+    "Actors": [
+      "Ryan Gosling",
+      "Bradley Cooper",
+      "Eva Mendes"
+    ],
     "Plot": "A motorcycle stunt rider turns to robbing banks as a way to provide for his ex and their newborn, a decision that sets him on a collision course with an ambitious rookie cop navigating a department ruled by a corrupt detective.",
-    "Language": "English, Spanish",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "Spanish"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "5 wins & 22 nominations",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjc1OTEwNjU4N15BMl5BanBnXkFtZTcwNzUzNDIwOQ@@._V1_SX300.jpg",
-    "BoxOffice": "$21,403,519",
+    "BoxOffice": 21403519,
     "imdbID": "tt1817273",
-    "imdbRating": "7.3",
+    "imdbRating": 7.3,
     "Stills": []
   },
   {
     "Title": "The Royal Tenenbaums",
-    "Year": "2001",
+    "Year": 2001,
     "Rated": "R",
-    "Released": "04 Jan 2002",
-    "Runtime": "110 min",
-    "Genre": "Comedy, Drama",
-    "Director": "Wes Anderson",
-    "Writer": "Wes Anderson, Owen Wilson",
-    "Actors": "Gene Hackman, Gwyneth Paltrow, Anjelica Huston",
+    "Released": "2002-01-04T05:00:00.000Z",
+    "Runtime": 110,
+    "Genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "Director": [
+      "Wes Anderson"
+    ],
+    "Writer": [
+      "Wes Anderson",
+      "Owen Wilson"
+    ],
+    "Actors": [
+      "Gene Hackman",
+      "Gwyneth Paltrow",
+      "Anjelica Huston"
+    ],
     "Plot": "The eccentric members of a dysfunctional family reluctantly gather under the same roof for various reasons.",
-    "Language": "English, Italian",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "Italian"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 1 Oscar. 11 wins & 46 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYmUzODQ5MGItZTZlNy00MDBhLWIxMmItMjg4Y2QyNDFlMWQ2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "BoxOffice": "$52,364,010",
+    "BoxOffice": 52364010,
     "imdbID": "tt0265666",
-    "imdbRating": "7.6",
+    "imdbRating": 7.6,
     "Stills": []
   },
   {
     "Title": "The Social Network",
-    "Year": "2010",
+    "Year": 2010,
     "Rated": "PG-13",
-    "Released": "01 Oct 2010",
-    "Runtime": "120 min",
-    "Genre": "Biography, Drama",
-    "Director": "David Fincher",
-    "Writer": "Aaron Sorkin, Ben Mezrich",
-    "Actors": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake",
+    "Released": "2010-10-01T04:00:00.000Z",
+    "Runtime": 120,
+    "Genre": [
+      "Biography",
+      "Drama"
+    ],
+    "Director": [
+      "David Fincher"
+    ],
+    "Writer": [
+      "Aaron Sorkin",
+      "Ben Mezrich"
+    ],
+    "Actors": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake"
+    ],
     "Plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business.",
-    "Language": "English, French",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "French"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Won 3 Oscars. 173 wins & 186 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "BoxOffice": "$96,962,694",
+    "BoxOffice": 96962694,
     "imdbID": "tt1285016",
-    "imdbRating": "7.8",
+    "imdbRating": 7.8,
     "Stills": []
   },
   {
     "Title": "The Tree of Life",
-    "Year": "2011",
+    "Year": 2011,
     "Rated": "PG-13",
-    "Released": "17 May 2011",
-    "Runtime": "139 min",
-    "Genre": "Drama, Fantasy",
-    "Director": "Terrence Malick",
-    "Writer": "Terrence Malick",
-    "Actors": "Brad Pitt, Sean Penn, Jessica Chastain",
+    "Released": "2011-05-17T04:00:00.000Z",
+    "Runtime": 139,
+    "Genre": [
+      "Drama",
+      "Fantasy"
+    ],
+    "Director": [
+      "Terrence Malick"
+    ],
+    "Writer": [
+      "Terrence Malick"
+    ],
+    "Actors": [
+      "Brad Pitt",
+      "Sean Penn",
+      "Jessica Chastain"
+    ],
     "Plot": "The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 3 Oscars. 116 wins & 130 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_SX300.jpg",
-    "BoxOffice": "$13,303,319",
+    "BoxOffice": 13303319,
     "imdbID": "tt0478304",
-    "imdbRating": "6.8",
+    "imdbRating": 6.8,
     "Stills": []
   },
   {
     "Title": "There Will Be Blood",
-    "Year": "2007",
+    "Year": 2007,
     "Rated": "R",
-    "Released": "25 Jan 2008",
-    "Runtime": "158 min",
-    "Genre": "Drama",
-    "Director": "Paul Thomas Anderson",
-    "Writer": "Paul Thomas Anderson, Upton Sinclair",
-    "Actors": "Daniel Day-Lewis, Paul Dano, Ciarán Hinds",
+    "Released": "2008-01-25T05:00:00.000Z",
+    "Runtime": 158,
+    "Genre": [
+      "Drama"
+    ],
+    "Director": [
+      "Paul Thomas Anderson"
+    ],
+    "Writer": [
+      "Paul Thomas Anderson",
+      "Upton Sinclair"
+    ],
+    "Actors": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Ciarán Hinds"
+    ],
     "Plot": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
-    "Language": "English, American Sign ",
-    "Country": "United States",
+    "Language": [
+      "English",
+      "American Sign"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Won 2 Oscars. 114 wins & 138 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg",
-    "BoxOffice": "$40,222,514",
+    "BoxOffice": 40222514,
     "imdbID": "tt0469494",
-    "imdbRating": "8.2",
+    "imdbRating": 8.2,
     "Stills": []
   },
   {
     "Title": "Trainspotting",
-    "Year": "1996",
+    "Year": 1996,
     "Rated": "R",
-    "Released": "09 Aug 1996",
-    "Runtime": "93 min",
-    "Genre": "Drama",
-    "Director": "Danny Boyle",
-    "Writer": "Irvine Welsh, John Hodge",
-    "Actors": "Ewan McGregor, Ewen Bremner, Jonny Lee Miller",
+    "Released": "1996-08-09T04:00:00.000Z",
+    "Runtime": 93,
+    "Genre": [
+      "Drama"
+    ],
+    "Director": [
+      "Danny Boyle"
+    ],
+    "Writer": [
+      "Irvine Welsh",
+      "John Hodge"
+    ],
+    "Actors": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller"
+    ],
     "Plot": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
-    "Language": "English",
-    "Country": "United Kingdom",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United Kingdom"
+    ],
     "Awards": "Nominated for 1 Oscar. 23 wins & 35 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "BoxOffice": "$16,491,080",
+    "BoxOffice": 16491080,
     "imdbID": "tt0117951",
-    "imdbRating": "8.1",
+    "imdbRating": 8.1,
     "Stills": []
   },
   {
     "Title": "TRON: Legacy",
-    "Year": "2010",
+    "Year": 2010,
     "Rated": "PG",
-    "Released": "17 Dec 2010",
-    "Runtime": "125 min",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Director": "Joseph Kosinski",
-    "Writer": "Edward Kitsis, Adam Horowitz, Brian Klugman",
-    "Actors": "Jeff Bridges, Garrett Hedlund, Olivia Wilde",
+    "Released": "2010-12-17T05:00:00.000Z",
+    "Runtime": 125,
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "Director": [
+      "Joseph Kosinski"
+    ],
+    "Writer": [
+      "Edward Kitsis",
+      "Adam Horowitz",
+      "Brian Klugman"
+    ],
+    "Actors": [
+      "Jeff Bridges",
+      "Garrett Hedlund",
+      "Olivia Wilde"
+    ],
     "Plot": "The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 1 Oscar. 10 wins & 52 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NTk4MTk1OF5BMl5BanBnXkFtZTcwNTE2MDIwNA@@._V1_SX300.jpg",
-    "BoxOffice": "$172,062,763",
+    "BoxOffice": 172062763,
     "imdbID": "tt1104001",
-    "imdbRating": "6.8",
+    "imdbRating": 6.8,
     "Stills": []
   },
   {
     "Title": "True Grit",
-    "Year": "2010",
+    "Year": 2010,
     "Rated": "PG-13",
-    "Released": "22 Dec 2010",
-    "Runtime": "110 min",
-    "Genre": "Drama, Western",
-    "Director": "Ethan Coen, Joel Coen",
-    "Writer": "Joel Coen, Ethan Coen, Charles Portis",
-    "Actors": "Jeff Bridges, Matt Damon, Hailee Steinfeld",
+    "Released": "2010-12-22T05:00:00.000Z",
+    "Runtime": 110,
+    "Genre": [
+      "Drama",
+      "Western"
+    ],
+    "Director": [
+      "Ethan Coen",
+      "Joel Coen"
+    ],
+    "Writer": [
+      "Joel Coen",
+      "Ethan Coen",
+      "Charles Portis"
+    ],
+    "Actors": [
+      "Jeff Bridges",
+      "Matt Damon",
+      "Hailee Steinfeld"
+    ],
     "Plot": "A stubborn teenager enlists the help of a tough U.S. Marshal to track down her father's murderer.",
-    "Language": "English",
-    "Country": "United States",
+    "Language": [
+      "English"
+    ],
+    "Country": [
+      "United States"
+    ],
     "Awards": "Nominated for 10 Oscars. 38 wins & 169 nominations total",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MjU3MTI4OF5BMl5BanBnXkFtZTcwMTQxOTAxNA@@._V1_SX300.jpg",
-    "BoxOffice": "$171,243,005",
+    "BoxOffice": 171243005,
     "imdbID": "tt1403865",
-    "imdbRating": "7.6",
+    "imdbRating": 7.6,
     "Stills": []
   }
 ]
