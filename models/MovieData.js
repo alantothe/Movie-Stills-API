@@ -1,43 +1,41 @@
 import mongoose from "mongoose";
-
 let movieDataSchema = new mongoose.Schema({
-
     Title: {
         type: String,
         trim: true,
     },
     Year: {
-        type: String,
+        type: Number,
     },
     Rated: {
         type: String,
     },
     Released: {
-        type: String,
+        type: Date,
     },
     Runtime: {
-        type: String,
+        type: Number,
     },
     Genre: {
-        type: String,
+        type: [String],
     },
     Director: {
-        type: String,
+        type: [String],
     },
     Writer: {
-        type: String,
+        type: [String],
     },
     Actors: {
-        type: String,
+        type: [String],
     },
     Plot: {
         type: String,
     },
     Language: {
-        type: String,
+        type: [String],
     },
     Country: {
-        type: String,
+        type: [String],
     },
     Awards: {
         type: String,
@@ -46,18 +44,17 @@ let movieDataSchema = new mongoose.Schema({
         type: String,
     },
     BoxOffice: {
-        type: String,
+        type: Number,
     },
     imdbID: {
         type: String,
     },
     imdbRating: {
-        type: String,
+        type: Number,
     },
     Stills: [{
         type: String,
     }],
-    
 })
 
 export default mongoose.model("MovieData", movieDataSchema);

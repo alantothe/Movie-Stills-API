@@ -20,22 +20,23 @@ async function filterMovies() {
         const filteredMovies = movies.map(movie => {
             return {
                 'Title': movie.Title,
-                'Year': movie.Year,
+                'Year': parseInt(movie.Year),
                 'Rated': movie.Rated,
-                'Released': movie.Released,
-                'Runtime': movie.Runtime,
-                'Genre': movie.Genre,
-                'Director': movie.Director,
-                'Writer': movie.Writer,
-                'Actors': movie.Actors,
+                'Released':new Date(movie.Released),
+                'Runtime': parseInt(movie.Runtime.replace(' min', '')),
+                'Genre': movie.Genre.split(', ').map(item => item.trim()),
+                'Director': movie.Director.split(', ').map(item => item.trim()),
+                'Writer': movie.Writer.split(', ').map(item => item.trim()),
+                'Actors': movie.Actors.split(', ').map(item => item.trim()),
                 'Plot': movie.Plot,
-                'Language': movie.Language,
-                'Country': movie.Country,
+                'Language': movie.Language.split(', ').map(item => item.trim()),
+                'Country': movie.Country.split(', ').map(item => item.trim()),
                 'Awards': movie.Awards,
                 'Poster': movie.Poster,
-                'BoxOffice': movie.BoxOffice,
+                'BoxOffice': parseFloat(movie.BoxOffice.replace(/[^0-9.]/g, "")),
                 'imdbID': movie.imdbID,
                 'imdbRating': movie.imdbRating,
+                'imdbRating': parseFloat(movie.imdbRating), 
                 'Stills': [] // Assuming this is where you want to put the stills
             };
         });
