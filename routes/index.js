@@ -1,5 +1,6 @@
 import { Router } from "express";
 import moviesRoutes from "./movies.js";
+import registerUser from "./user.js";
 
 
 const router = Router();
@@ -9,5 +10,6 @@ router.get("/", (req, res) => {
 });
 
 router.use("/movies", moviesRoutes);
+router.post("/register", registerUser);
 
 export default router;
