@@ -1,0 +1,299 @@
+import axios from "axios";
+import fs from "fs";
+
+
+
+const movies = [
+    {
+      "imdbID": "tt0062622",
+      "title": "2001: A Space Odyssey"
+    },
+    {
+      "imdbID": "tt0307901",
+      "title": "25th Hour"
+    },
+    {
+      "imdbID": "tt1019452",
+      "title": "A Serious Man"
+    },
+    {
+      "imdbID": "tt0212720",
+      "title": "A.I. Artificial Intelligence"
+    },
+    {
+      "imdbID": "tt0169547",
+      "title": "American Beauty"
+    },
+    {
+      "imdbID": "tt0072684",
+      "title": "Barry Lyndon"
+    },
+    {
+      "imdbID": "tt0307901",
+      "title": "25th Hour"
+    },
+    {
+      "imdbID": "tt1019452",
+      "title": "A Serious Man"
+    },
+    {
+      "imdbID": "tt0212720",
+      "title": "A.I. Artificial Intelligence"
+    },
+    {
+      "imdbID": "tt0169547",
+      "title": "American Beauty"
+    },
+    {
+      "imdbID": "tt0083658",
+      "title": "Blade Runner"
+    },
+    {
+      "imdbID": "tt1120985",
+      "title": "Big Fish"
+    },
+    {
+      "imdbID": "tt0393109",
+      "title": "Brick"
+    },
+    {
+      "imdbID": "tt1172570",
+      "title": "Bronson"
+    },
+    {
+      "imdbID": "tt1462758",
+      "title": "Buried"
+    },
+    {
+      "imdbID": "tt0460740",
+      "title": "Cashback"
+    },
+    {
+      "imdbID": "tt0206634",
+      "title": "Children of Men"
+    },
+    {
+      "imdbID": "tt1371111",
+      "title": "Cloud Atlas"
+    },
+    {
+      "imdbID": "tt0270288",
+      "title": "Confessions of a Dangerous Mind"
+    },
+    {
+      "imdbID": "tt0780504",
+      "title": "Drive"
+    },
+    {
+      "imdbID": "tt1191111",
+      "title": "Enter the Void"
+    },
+    {
+      "imdbID": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "imdbID": "tt0137523",
+      "title": "Fight Club"
+    },
+    {
+      "imdbID": "tt1454468",
+      "title": "Gravity"
+    },
+    {
+      "imdbID": "tt1375666",
+      "title": "Inception"
+    },
+    {
+      "imdbID": "tt0454876",
+      "title": "Life of Pi"
+    },
+    {
+      "imdbID": "tt1276104",
+      "title": "Looper"
+    },
+    {
+      "imdbID": "tt0335266",
+      "title": "Lost in Translation"
+    },
+    {
+      "imdbID": "tt0175880",
+      "title": "Magnolia"
+    },
+    {
+      "imdbID": "tt0209144",
+      "title": "Memento"
+    },
+    {
+      "imdbID": "tt0181689",
+      "title": "Minority Report"
+    },
+    {
+      "imdbID": "tt1182345",
+      "title": "Moon"
+    },
+    {
+      "imdbID": "tt1748122",
+      "title": "Moonrise Kingdom"
+    },
+    {
+      "imdbID": "tt1935179",
+      "title": "Mud"
+    },
+    {
+      "imdbID": "tt0477348",
+      "title": "No Country for Old Men"
+    },
+    {
+      "imdbID": "tt1483013",
+      "title": "Oblivion"
+    },
+    {
+      "imdbID": "tt0457430",
+      "title": "Pan’s Labyrinth"
+    },
+    {
+      "imdbID": "tt0272338",
+      "title": "Punch-Drunk Love"
+    },
+    {
+      "imdbID": "tt0257044",
+      "title": "Road to Perdition"
+    },
+    {
+      "imdbID": "tt1839492",
+      "title": "Ruby Sparks"
+    },
+    {
+      "imdbID": "tt1130884",
+      "title": "Shutter Island"
+    },
+    {
+      "imdbID": "tt1074638",
+      "title": "Skyfall"
+    },
+    {
+      "imdbID": "tt1010048",
+      "title": "Slumdog Millionaire"
+    },
+    {
+      "imdbID": "tt0245429",
+      "title": "Spirited Away"
+    },
+    {
+      "imdbID": "tt0448134",
+      "title": "Sunshine"
+    },
+    {
+      "imdbID": "tt0076786",
+      "title": "Suspiria"
+    },
+    {
+      "imdbID": "tt0383028",
+      "title": "Synecdoche, New York"
+    },
+    {
+      "imdbID": "tt0075314",
+      "title": "Taxi Driver"
+    },
+    {
+      "imdbID": "tt0421715",
+      "title": "The Curious Case of Benjamin Button"
+    },
+    {
+      "imdbID": "tt0468569",
+      "title": "The Dark Knight"
+    },
+    {
+      "imdbID": "tt0401383",
+      "title": "The Diving Bell and the Butterfly"
+    },
+    {
+      "imdbID": "tt1568346",
+      "title": "The Girl with the Dragon Tattoo"
+    },
+    {
+      "imdbID": "tt0371724",
+      "title": "The Hitchhiker's Guide to the Galaxy"
+    },
+    {
+      "imdbID": "tt0361862",
+      "title": "The Machinist"
+    },
+    {
+      "imdbID": "tt1560747",
+      "title": "The Master"
+    },
+    {
+      "imdbID": "tt0402399",
+      "title": "The New World"
+    },
+    {
+      "imdbID": "tt1817273",
+      "title": "The Place Beyond the Pines"
+    },
+    {
+      "imdbID": "tt0265666",
+      "title": "The Royal Tenenbaums"
+    },
+    {
+      "imdbID": "tt1285016",
+      "title": "The Social Network"
+    },
+    {
+      "imdbID": "tt0478304",
+      "title": "The Tree of Life"
+    },
+    {
+      "imdbID": "tt0469494",
+      "title": "There Will Be Blood"
+    },
+    {
+      "imdbID": "tt0117951",
+      "title": "Trainspotting"
+    },
+    {
+      "imdbID": "tt1104001",
+      "title": "Tron"
+    },
+    {
+      "imdbID": "tt1403865",
+      "title": "True Grit"
+    }
+]
+
+async function fetchMovieData() {
+    let movieData = [];
+    for (let movie of movies) {
+        await new Promise(resolve => setTimeout(resolve, 5000));  // delay at the start
+        try {
+            const options = {
+                method: 'GET',
+                url: 'https://movie-database-alternative.p.rapidapi.com/',
+                params: {
+                    r: 'json',
+                    i: movie.imdbID
+                },
+                headers: {
+                    'X-RapidAPI-Key': '9259a11e20mshc29372910a530bcp1d41dbjsn3cc85ab17473',
+                    'X-RapidAPI-Host': 'movie-database-alternative.p.rapidapi.com'
+                }
+            };
+            const response = await axios.request(options);
+            movieData.push(response.data);
+        } catch (error) {
+            console.error(error);
+        }
+    }
+
+    
+
+
+
+    fs.writeFile('masterMoviesData.json', JSON.stringify(movieData, null, 2), (err) => {
+        if (err) throw err;
+        console.log('Data written to file');
+    });
+}
+
+fetchMovieData();
