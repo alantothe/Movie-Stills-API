@@ -10,6 +10,8 @@ router.get("/", (req, res) => {
 });
 
 router.use("/movies", moviesRoutes);
+router.use('/users', registerUser)
 router.post("/register", registerUser);
+
 
 export default router;

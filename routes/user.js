@@ -6,7 +6,7 @@ const router = Router();
 
 
 router.post('/register', controllers.registerUser)
-
+router.get ('/', controllers.getUsers)
 
 
 export default router

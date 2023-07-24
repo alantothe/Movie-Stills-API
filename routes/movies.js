@@ -12,6 +12,8 @@ router.get("/stills/imdb/:id", controllers.getMovieStillsByIMDB);
 router.get('/stills/:id', controllers.getMovieStillsByID)
 router.get('/poster/:id', controllers.getPosterByID)
 
+router.delete("/delete/:id", controllers.deleteMovieById);
+
 
 
 export default router
