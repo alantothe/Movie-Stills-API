@@ -1,8 +1,8 @@
 import db from "./db/mongo.js";
 import express from "express";
 import cors from "cors";
-// import logger from "morgan";
-// import routes from "./routes/index.js"
+import logger from "morgan";
+import routes from "./routes/index.js"
 
 
 const app = express();
@@ -15,7 +15,7 @@ app.use(cors());
 const port = 4000;
 
 
-// app.use("/api", routes);
+app.use("/api", routes);
 
 app.listen(port, () => {
     console.log(`listening on port ${port}`);
