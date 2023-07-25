@@ -20,4 +20,4 @@ mongoose.connection.on("error", (err) => {
     console.log(`MongoDB connection error: ${err}`);
 });
 
-export default mongoose
+export default mongoose.connection
