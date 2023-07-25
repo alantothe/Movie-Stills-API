@@ -2,7 +2,9 @@ import mongoose from "mongoose";
 
 mongoose.set("returnOriginal", false)
 
-mongoose.connect("mongodb://localhost:27017/AlanMovieDB").catch((err) => {
+const connectString = process.env.MONGO_URI || "mongodb://localhost:27017/AlanMovieDB"
+
+mongoose.connect(connectString).catch((err) => {
     console.error("Error connecting to database", err);
 });
 
