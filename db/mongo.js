@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 mongoose.set("returnOriginal", false)
 
-const connectString = process.env.MONGO_URI || "mongodb://localhost:27017/AlanMovieDB"
+const connectString = process.env.MONGO_URI || "mongodb://localhost:27017/AlanCHAT_APP"
 
 mongoose.connect(connectString).catch((err) => {
     console.error("Error connecting to database", err);
