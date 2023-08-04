@@ -2,12 +2,12 @@
 
 ### Description
 
-This is the API documentation for a movie database. It allows users to interact with a large amount of data about movies, including images, details, and other relevant information. The API is built with Express, Heroku, and Cloudinary and has a number of endpoints to fetch movie details as well as user-related operations.
+API for a movie database. It allows users to interact with a large amount of data about movies, including images, details, and other relevant information. The API is built with Express, Heroku, and Cloudinary and has a number of endpoints to fetch movie details as well as user-related operations.
 
 ### Inspiration
  Inspiration was drawn from sites like [Film Grab](https://film-grab.com/) and [Shot Cafe](https://shot.cafe/), which focus on displaying movie stills.
 
- To achieve this, I made custom database by web scraping similar sites to gather high-quality movie images, I also used the Movie Database API from Rapid API to grab more detailed information about each movie.
+ To achieve this, I made a custom database by web scraping similar sites to gather high-quality movie images, I also used the Movie Database API from Rapid API to grab more detailed information about each movie.
 
 
 
