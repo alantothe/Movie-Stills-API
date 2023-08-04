@@ -143,7 +143,7 @@ export const getPosterByID = async (req, res) => {
 export const deleteMovieById = async (req, res) => {
   try {
     const { id } = req.params;
-    const movie = await MovieData.findByIdAndDelete(_id);
+    const movie = await MovieData.findByIdAndDelete(id);
 
     if (!movie) {
       return res.status(404).json({ message: "Invaild ID " });
@@ -163,6 +163,30 @@ export const createMovie = async (req, res) => {
     await newMovie.save();
 
     res.status(201).json(newMovie);
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: error.message });
+  }
+};
+
+export const updateMovieByID = async (req, res) => {
+  try {
+    console.log("params:", req.params);
+    console.log("body:", req.body);
+
+    const { id } = req.params;
+    // const { movie } = req.body;
+
+    // if (!movie) {
+    //   return res.status(400).json({ message: "No favorite provided" });
+    // }
+    if (!id) {
+      return res.status(404).json({ message: "Invalid ID" });
+    }
+
+    const user = await MovieData.findByIdAndUpdate(id, req.body);
+
+    res.json({ message: "Updated successfully", user });
   } catch (error) {
     console.log(error);
     res.status(500).json({ error: error.message });

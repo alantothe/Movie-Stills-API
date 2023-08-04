@@ -12,6 +12,7 @@ router.get("/stills/imdb/:id", controllers.getMovieStillsByIMDB);
 router.get("/stills/:id", controllers.getMovieStillsByID);
 router.get("/poster/:id", controllers.getPosterByID);
 router.post("/add", controllers.createMovie);
+router.put("/:id/movie", controllers.updateMovieByID);
 
 router.delete("/delete/:id", controllers.deleteMovieById);
 

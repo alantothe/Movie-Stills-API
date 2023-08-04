@@ -1,23 +1,24 @@
-import mongoose from "mongoose";    
+import mongoose from "mongoose";
 
-mongoose.set("returnOriginal", false)
+mongoose.set("returnOriginal", false);
 
-const connectString = process.env.MONGO_URI || "mongodb://localhost:27017/AlanCHAT_APP"
+const connectString =
+  process.env.MONGO_URI || "mongodb://127.0.0.1:27017/AlanCHAT_APP";
 
 mongoose.connect(connectString).catch((err) => {
-    console.error("Error connecting to database", err);
+  console.error("Error connecting to database", err);
 });
 
 mongoose.connection.on("connected", () => {
-    console.log("Successfully connected to MongoDB");
+  console.log("Successfully connected to MongoDB");
 });
 
 mongoose.connection.on("disconnected", () => {
-    console.log("Disconnected from MongoDB!");
-});
-  
-mongoose.connection.on("error", (err) => {
-    console.log(`MongoDB connection error: ${err}`);
+  console.log("Disconnected from MongoDB!");
 });
 
-export default mongoose.connection
+mongoose.connection.on("error", (err) => {
+  console.log(`MongoDB connection error: ${err}`);
+});
+
+export default mongoose.connection;
